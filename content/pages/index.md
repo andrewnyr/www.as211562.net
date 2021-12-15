@@ -50,7 +50,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-    title: network
+    title: welcome
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
