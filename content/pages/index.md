@@ -5,7 +5,6 @@ sections:
   - type: HeroSection
     elementId: homepage-hero-1
     colors: colors-a
-    title: Love your work. Work loves you.
     subtitle: >-
       welcome to the homepage of my personal network, as211562. this mainly
       exists for educational purposes as i navigate the intricacies of advanced
