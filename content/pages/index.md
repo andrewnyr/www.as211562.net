@@ -11,7 +11,7 @@ sections:
       network topologies.
     actions:
       - type: Button
-        label: Get Started
+        label: contact
         url: 'https://www.stackbit.com/'
         style: primary
       - type: Link
