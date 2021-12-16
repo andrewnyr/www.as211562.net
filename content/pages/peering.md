@@ -116,7 +116,7 @@ sections:
       subtitle:
         textAlign: center
   - elementId: ''
-    colors: colors-f
+    colors: colors-e
     title: The Section Title
     subtitle: The section subtitle
     text: >
