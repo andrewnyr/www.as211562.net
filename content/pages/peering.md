@@ -7,7 +7,6 @@ sections:
     subtitle: ''
     jobLists:
       - type: JobList
-        title: Sales
         items:
           - type: JobListItem
             title: Sales Development Representative
