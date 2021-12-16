@@ -36,7 +36,7 @@
                 "type": "Button",
                 "label": "Login",
                 "url": "/",
-                "altText": "Sign up",
+                "altText": "Login",
                 "style": "primary"
             }
         ],
