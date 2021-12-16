@@ -3,7 +3,7 @@ title: Peering
 sections:
   - colors: colors-a
     elementId: ''
-    title: Open roles
+    title: Peering
     subtitle: ''
     jobLists:
       - type: JobList
