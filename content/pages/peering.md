@@ -9,7 +9,6 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Sales Development Representative
             location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
