@@ -37,7 +37,8 @@
                 "label": "Login",
                 "url": "https://login.andrewnet.net/",
                 "altText": "Login",
-                "style": "primary"
+                "style": "primary",
+                "showIcon": true
             }
         ],
         "styles": {
