@@ -9,7 +9,7 @@ sections:
       - type: JobList
         items:
           - text: >
-              ## Toronto&#xA;&#xA;
+              ## Toronto
 
 
               *   andrewnet has a very open peering policy for his Toronto pop
