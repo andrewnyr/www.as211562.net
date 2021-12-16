@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - type: HeroSection
     elementId: homepage-hero-1
-    colors: colors-a
+    colors: colors-g
     subtitle: >-
       welcome to the homepage of my personal network, as211562. this mainly
       exists for educational purposes as i navigate the intricacies of advanced
