@@ -50,6 +50,12 @@ sections:
       actions:
         justifyContent: flex-start
     title: welcome
+    badge:
+      label: This is the badge
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
   - elementId: ''
     colors: colors-f
     backgroundSize: inset
