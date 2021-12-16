@@ -149,7 +149,7 @@ sections:
         textAlign: center
     type: TextSection
   - elementId: ''
-    colors: colors-e
+    colors: colors-f
     title: The Section Title
     subtitle: The section subtitle
     text: >
