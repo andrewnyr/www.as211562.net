@@ -22,7 +22,6 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/network.svg
       altText: Image alt text
       caption: Image caption
     styles:
