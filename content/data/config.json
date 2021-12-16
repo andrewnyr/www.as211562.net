@@ -35,7 +35,7 @@
             {
                 "type": "Button",
                 "label": "Login",
-                "url": "/",
+                "url": "https://login.andrewnet.net/",
                 "altText": "Login",
                 "style": "primary"
             }
