@@ -28,7 +28,7 @@ sections:
         iconPosition: left
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/network.svg
       altText: Team meeting
     styles:
       self:
