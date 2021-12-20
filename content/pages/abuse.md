@@ -65,7 +65,7 @@ sections:
               quae. explicabo.
             actions:
               - type: Link
-                label: Apply
+                label: Contact
                 url: /
                 showIcon: true
                 icon: mail
