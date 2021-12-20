@@ -112,18 +112,13 @@ sections:
     backgroundSize: full
     title: supporters
     text: >
-      <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute\<!---->\<!---->
-
-
+      *   <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute
 
 
       *   <https://kagl.me> - IPv6 Prefix(s)
 
 
       *   <https://globalsecurelayer.com> - BGP Tunnel
-
-
-      <!---->
 
 
       *   [https://as206628.net](https://as206628.net/) - Compute
