@@ -58,7 +58,6 @@ sections:
               with the contact form.
             actions: []
           - title: Role Title
-            location: Role location
             actions:
               - type: Link
                 label: Contact
