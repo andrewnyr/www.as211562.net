@@ -29,7 +29,6 @@ sections:
     type: TextSection
   - elementId: ''
     colors: colors-f
-    title: The Section Title
     text: |
       ## welcome to the homepage of my personal network, as211562&#xA;&#xA;
     styles:
