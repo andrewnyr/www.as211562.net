@@ -140,14 +140,6 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            actions:
-              - type: Link
-                label: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
-          - type: JobListItem
             title: Senior Backend Engineer
             location: Remote
             text: >-
