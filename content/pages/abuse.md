@@ -5,9 +5,26 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: Let's do this
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      AS211562 is a small educational network operated by Andrew Asciutto.
+
+
+
+      ## Law Enforcement
+
+
+      while andrewnet does not tolerate any illegal activities of any kind, we
+      will also ignore any request from any law enforcement agency that does not
+      have jurisdiction in the areas in which andrewnet operates. to contact me,
+      please reach out through my contact form.
+
+
+      ## Non-Law Enforcement
+
+
+      andrewnet will not tolerate any abuse of any kind and is willing to
+      cooperate with all to fix any perceived abuse. please reach out with the
+      contact form.
     actions:
       - type: Button
         label: Try it now
