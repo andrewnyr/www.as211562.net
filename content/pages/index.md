@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-b
+    colors: colors-e
     text: |
       ## welcome to the homepage of my network, as211562.
     styles:
