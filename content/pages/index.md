@@ -44,7 +44,7 @@ sections:
 
     actions:
       - type: Button
-        label: Try it now
+        label: Abuse
         url: /
         style: primary
       - label: Learn more
