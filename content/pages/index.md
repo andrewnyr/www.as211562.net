@@ -49,9 +49,9 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: information
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      we announce a few different ipv4 and ipv6 prefixes to the dfz. you can
+      view some information about our network here.
     actions:
       - type: Button
         label: Try it now
