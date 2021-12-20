@@ -167,7 +167,6 @@ sections:
     title: our network
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
