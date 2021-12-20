@@ -141,7 +141,6 @@ sections:
         items:
           - type: JobListItem
             title: Head of engineering
-            location: San Francisco
             actions:
               - type: Link
                 label: Apply
