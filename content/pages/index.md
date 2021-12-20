@@ -164,7 +164,7 @@ sections:
   - elementId: ''
     colors: colors-a
     backgroundSize: full
-    title: 'A great feature, we’re proud of'
+    title: our network
     subtitle: ''
     badge:
       label: This is the badge
@@ -172,8 +172,6 @@ sections:
       styles:
         self:
           textAlign: left
-
-
     actions:
       - type: Button
         label: Sign Up
@@ -181,7 +179,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: https://bgp.he.net/graphs/as211562-ipv6.svg
+      url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
       altText: Hero image
     styles:
       self:
