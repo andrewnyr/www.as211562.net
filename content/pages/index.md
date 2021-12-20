@@ -162,7 +162,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-b
+    colors: colors-h
     backgroundSize: full
     title: our network
     subtitle: thanks to bgp.he.net
