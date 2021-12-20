@@ -49,7 +49,7 @@ sections:
         style: primary
       - label: Learn more
         altText: ''
-        url: /
+        url: 'https://www.as211562.net/peeringdb'
         showIcon: false
         icon: arrowRight
         iconPosition: right
