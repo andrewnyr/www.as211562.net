@@ -68,7 +68,7 @@ sections:
                 label: Apply
                 url: /
                 showIcon: false
-                icon: chevronLeft
+                icon: chevronRight
                 iconPosition: right
     styles:
       self:
