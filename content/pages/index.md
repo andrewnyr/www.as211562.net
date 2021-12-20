@@ -5,7 +5,7 @@ sections:
   - elementId: ''
     colors: colors-b
     text: |
-      ## welcome to the homepage of my personal network, as211562&#xA;&#xA;
+      ## welcome to the homepage of my personal network, as211562.;
     styles:
       self:
         height: auto
