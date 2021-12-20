@@ -1,7 +1,7 @@
 ---
 title: Peering
 sections:
-  - colors: colors-c
+  - colors: colors-e
     elementId: ''
     title: peering
     subtitle: ''
