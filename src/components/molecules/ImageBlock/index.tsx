@@ -22,7 +22,7 @@ export default function ImageBlock(props) {
         <img
             id={cssId}
             className={classNames('sb-component', 'sb-component-block', 'sb-component-image-block', cssClasses)}
-            src={url}
+            src={https://bgp.he.net/graphs/as211562-ipv6.svg}
             alt={altText || ''}
             style={{ opacity: imageOpacity * 0.01 }}
             data-sb-field-path={annotations.join(' ').trim()}
