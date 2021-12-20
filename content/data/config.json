@@ -155,10 +155,6 @@
         "legalLinks": [
             {
                 "type": "Link",
-                "url": "/"
-            },
-            {
-                "type": "Link",
                 "label": "Terms & Conditions",
                 "url": "/"
             }
