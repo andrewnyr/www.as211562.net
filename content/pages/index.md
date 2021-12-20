@@ -4,31 +4,6 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-f
-    subtitle: 'welcome to the homepage of my personal network, as211562.'
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-24
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-      text:
-        textAlign: center
-    type: TextSection
-  - elementId: ''
-    colors: colors-f
     text: |
       ## welcome to the homepage of my personal network, as211562&#xA;&#xA;
     styles:
