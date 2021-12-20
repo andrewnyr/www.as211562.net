@@ -46,7 +46,7 @@ sections:
       - type: Button
         label: Abuse
         url: /abuse
-        style: secondary
+        style: primary
       - label: PeeringDB
         altText: ''
         url: /peeringdb
