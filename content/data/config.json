@@ -29,6 +29,16 @@
                 "label": "CONTACT",
                 "altText": "contact",
                 "url": "https://www.andrewnet.net/contact-me/"
+            },
+            {
+                "label": "Learn more",
+                "altText": "",
+                "url": "/",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": "",
+                "type": "Link"
             }
         ],
         "secondaryLinks": [
