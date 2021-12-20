@@ -34,6 +34,9 @@ sections:
         items:
           - type: JobListItem
             text: >
+              #### introduction
+
+
               our goal is to create a unified set of colors for our brand. this
               also encompasses the stylization of text and colors on our
               website.
