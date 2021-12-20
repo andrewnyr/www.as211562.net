@@ -57,8 +57,7 @@ sections:
               to cooperate with all to fix any perceived abuse. please reach out
               with the contact form.
             actions: []
-          - title: Role Title
-            actions:
+          - actions:
               - type: Link
                 label: Contact
                 url: /
