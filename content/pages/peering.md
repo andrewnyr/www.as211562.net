@@ -157,5 +157,6 @@ sections:
       subtitle:
         textAlign: left
     type: JobsSection
+    title: peer
 layout: PageLayout
 ---
