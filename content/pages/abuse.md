@@ -60,7 +60,7 @@ sections:
           - actions:
               - type: Link
                 label: Contact
-                url: /
+                url: 'https://www.andrewnet.net/contact-me/'
                 showIcon: true
                 icon: mail
                 iconPosition: right
