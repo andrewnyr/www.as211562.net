@@ -3,7 +3,7 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-c
+    colors: colors-h
     backgroundSize: full
     subtitle: ''
     badge:
