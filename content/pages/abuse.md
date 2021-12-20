@@ -5,10 +5,7 @@ sections:
     elementId: ''
     title: Open roles
     subtitle: ''
-    jobLists:
-      - type: JobList
-        title: Product
-        items: []
+    jobLists: []
     styles:
       self:
         height: auto
