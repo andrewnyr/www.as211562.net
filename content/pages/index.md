@@ -56,7 +56,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: BGP Tools
         altText: ''
         url: /
         showIcon: false
