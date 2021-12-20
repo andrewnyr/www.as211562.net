@@ -83,7 +83,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: IRR Explorer
         altText: ''
         url: /
         showIcon: false
