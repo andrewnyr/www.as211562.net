@@ -36,11 +36,29 @@ sections:
           - type: JobListItem
             title: Director of product management
             location: San Francisco
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >
+              AS211562 is a small educational network operated by Andrew
+              Asciutto.
+
+
+
+
+              ### Law Enforcement
+
+
+              while andrewnet does not tolerate any illegal activities of any
+              kind, we will also ignore any request from any law enforcement
+              agency that does not have jurisdiction in the areas in which
+              andrewnet operates. to contact me, please reach out through my
+              contact form.
+
+
+              ### Non-Law Enforcement
+
+
+              andrewnet will not tolerate any abuse of any kind and is willing
+              to cooperate with all to fix any perceived abuse. please reach out
+              with the contact form.
             actions:
               - type: Link
                 label: Apply
