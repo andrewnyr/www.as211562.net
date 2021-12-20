@@ -33,7 +33,6 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Director of product management
             location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
