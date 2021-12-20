@@ -67,7 +67,7 @@ sections:
               - type: Link
                 label: Apply
                 url: /
-                showIcon: false
+                showIcon: true
                 icon: arrowRight
                 iconPosition: right
     styles:
