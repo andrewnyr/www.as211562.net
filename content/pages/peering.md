@@ -140,7 +140,6 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Head of engineering
             actions:
               - type: Link
                 label: Apply
