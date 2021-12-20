@@ -3,7 +3,6 @@ title: Branding Guidelines
 sections:
   - colors: colors-a
     elementId: ''
-    title: branding guidelines
     subtitle: ''
     jobLists:
       - type: JobList
