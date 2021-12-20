@@ -48,19 +48,19 @@ sections:
   - elementId: ''
     colors: colors-f
     text: |
-      [Abuse](https://www.as211562.net/abuse/) 
+      *   [Abuse](https://www.as211562.net/abuse/)
 
-      [PeeringDB](https://www.as211562.net/peeringdb) 
+      *   [PeeringDB](https://www.as211562.net/peeringdb)
 
-      [BGP Tools](https://www.as211562.net/tools) 
+      *   [BGP Tools](https://www.as211562.net/tools)
 
-      [BGP.HE.NET](https://www.as211562.net/hurricane) 
+      *   [BGP.HE.NET](https://www.as211562.net/hurricane)
 
-      [QRATOR](https://www.as211562.net/qrator) 
+      *   [QRATOR](https://www.as211562.net/qrator)
 
-      [IRR explorer](https://irrexplorer.nlnog.net/asn/AS211562) 
+      *   [IRR explorer](https://irrexplorer.nlnog.net/asn/AS211562)
 
-      [IPinfo](https://ipinfo.io/AS211562)
+      *   [IPinfo](https://ipinfo.io/AS211562)
     styles:
       self:
         height: auto
