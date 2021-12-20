@@ -85,7 +85,7 @@ sections:
         type: Button
       - label: IRR Explorer
         altText: ''
-        url: /
+        url: 'https://irrexplorer.nlnog.net/asn/AS211562'
         showIcon: false
         icon: arrowRight
         iconPosition: right
