@@ -31,7 +31,6 @@ sections:
     subtitle: ''
     jobLists:
       - type: JobList
-        title: Product
         items:
           - type: JobListItem
             text: >
