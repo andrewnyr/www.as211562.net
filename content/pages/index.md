@@ -47,15 +47,20 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-f
-    text: >+
-      [Abuse](https://www.as211562.net/abuse/)
-      [PeeringDB](https://www.as211562.net/peeringdb) [BGP
-      Tools](https://www.as211562.net/tools)
-      [BGP.HE.NET](https://www.as211562.net/hurricane)
-      [QRATOR](https://www.as211562.net/qrator) [IRR
-      explorer](https://irrexplorer.nlnog.net/asn/AS211562)
-      [IPinfo](https://ipinfo.io/AS211562)
+    text: |
+      [Abuse](https://www.as211562.net/abuse/) 
 
+      [PeeringDB](https://www.as211562.net/peeringdb) 
+
+      [BGP Tools](https://www.as211562.net/tools) 
+
+      [BGP.HE.NET](https://www.as211562.net/hurricane) 
+
+      [QRATOR](https://www.as211562.net/qrator) 
+
+      [IRR explorer](https://irrexplorer.nlnog.net/asn/AS211562) 
+
+      [IPinfo](https://ipinfo.io/AS211562)
     styles:
       self:
         height: auto
