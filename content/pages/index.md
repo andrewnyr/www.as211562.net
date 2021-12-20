@@ -45,7 +45,7 @@ sections:
     actions:
       - type: Button
         label: Abuse
-        url: /
+        url: /abuse
         style: primary
       - label: Learn more
         altText: ''
