@@ -58,7 +58,7 @@ sections:
         type: Button
       - label: BGP Tools
         altText: ''
-        url: /
+        url: 'https://www.as211562.net/tools'
         showIcon: false
         icon: arrowRight
         iconPosition: right
