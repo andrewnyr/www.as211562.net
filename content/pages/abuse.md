@@ -56,13 +56,7 @@ sections:
               andrewnet will not tolerate any abuse of any kind and is willing
               to cooperate with all to fix any perceived abuse. please reach out
               with the contact form.
-            actions:
-              - type: Link
-                label: Apply
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
+            actions: []
       - type: JobList
         title: Engineering
         items:
