@@ -1,7 +1,7 @@
 ---
 title: Branding Guidelines
 sections:
-  - colors: colors-e
+  - colors: colors-a
     elementId: ''
     title: branding guidelines
     subtitle: ''
