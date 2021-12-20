@@ -51,16 +51,7 @@
                 "type": "Link"
             }
         ],
-        "secondaryLinks": [
-            {
-                "type": "Button",
-                "label": "Login",
-                "url": "https://login.andrewnet.net/",
-                "altText": "Login",
-                "style": "primary",
-                "showIcon": true
-            }
-        ],
+        "secondaryLinks": [],
         "styles": {
             "self": {
                 "width": "narrow",
