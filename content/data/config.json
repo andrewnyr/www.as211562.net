@@ -2,7 +2,7 @@
     "type": "Config",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-f",
+        "primaryColors": "colors-h",
         "secondaryColors": "colors-f",
         "isTitleVisible": false,
         "primaryLinks": [
