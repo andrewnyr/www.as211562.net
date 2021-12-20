@@ -133,7 +133,7 @@ sections:
       me](https://www.as211562.net/contact/).
     actions:
       - type: Button
-        label: Try it now
+        label: contact
         url: /
         style: primary
       - type: Button
