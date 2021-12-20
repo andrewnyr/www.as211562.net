@@ -29,7 +29,7 @@ sections:
         textAlign: center
     type: TextSection
   - elementId: ''
-    colors: colors-f
+    colors: colors-b
     backgroundSize: full
     title: information
     text: >+
