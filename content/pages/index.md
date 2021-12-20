@@ -181,7 +181,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-1.png
+      url: https://bgp.he.net/graphs/as211562-ipv6.svg
       altText: Hero image
     styles:
       self:
