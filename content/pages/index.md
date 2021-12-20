@@ -4,7 +4,7 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-b
-    backgroundSize: inset
+    backgroundSize: full
     subtitle: ''
     badge:
       elementId: ''
