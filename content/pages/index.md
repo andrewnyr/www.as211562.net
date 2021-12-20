@@ -165,7 +165,7 @@ sections:
     colors: colors-a
     backgroundSize: full
     title: our network
-    subtitle: ''
+    subtitle: thanks to bgp.he.net
     badge:
       elementId: ''
       styles:
