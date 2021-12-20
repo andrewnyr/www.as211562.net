@@ -32,7 +32,7 @@ sections:
     title: The Section Title
     subtitle: The section subtitle
     text: |
-      ## welcome to the homepage of my personal network, as211562.&#xA;&#xA;
+      ## welcome to the homepage of my personal network, as211562&#xA;&#xA;
     styles:
       self:
         height: auto
