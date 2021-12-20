@@ -171,11 +171,7 @@ sections:
       styles:
         self:
           textAlign: left
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     media:
       type: ImageBlock
       url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
