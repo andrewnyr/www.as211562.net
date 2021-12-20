@@ -121,7 +121,7 @@ sections:
     media:
       type: ImageBlock
       url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
-      altText: Hero image
+      altText: network map
     styles:
       self:
         height: auto
