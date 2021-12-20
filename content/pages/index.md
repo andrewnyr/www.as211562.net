@@ -112,19 +112,19 @@ sections:
     backgroundSize: full
     title: supporters
     text: >
-      *   <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute
+      *   <https://www.bakker-it.eu> -IPv6 Prefix(s) and Compute
 
 
-      *   <https://kagl.me>-IPv6 Prefix(s)
+      *   <https://kagl.me> -IPv6 Prefix(s)
 
 
-      *   <https://globalsecurelayer.com> - BGP Tunnel
+      *   <https://globalsecurelayer.com> -BGP Tunnel
 
 
-      *   [https://as206628.net](https://as206628.net/) - Compute
+      *   [https://as206628.net](https://as206628.net/) -Compute
 
 
-      *   <https://www.xenyth.net> - Waived BGP Fee
+      *   <https://www.xenyth.net> -Waived BGP Fee
 
 
       andrewnet is a small network operated by a broke college student. if you
