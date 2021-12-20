@@ -74,7 +74,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: QRATOR
         altText: ''
         url: /
         showIcon: false
