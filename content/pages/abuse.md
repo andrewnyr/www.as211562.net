@@ -67,8 +67,8 @@ sections:
               - type: Link
                 label: Apply
                 url: /
-                showIcon: true
-                icon: arrowRight
+                showIcon: false
+                icon: mail
                 iconPosition: right
     styles:
       self:
