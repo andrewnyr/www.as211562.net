@@ -26,7 +26,7 @@ sections:
       contact form.
     actions:
       - type: Button
-        label: Try it now
+        label: Report Abuse
         url: /
         style: primary
     backgroundImage: null
