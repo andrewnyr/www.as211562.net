@@ -9,7 +9,7 @@ sections:
       - type: JobList
         items:
           - text: >
-              ## Toronto
+              ### Toronto
 
 
               *   andrewnet has a very open peering policy for his Toronto pop
@@ -33,12 +33,15 @@ sections:
               [2602:fc26:6::/48](https://bgp.he.net/net/2602:fc26:6::/48).
 
 
-              ## New Jersey
+              ### New Jersey
 
 
               *   andrewnet does have a selective policy for who is able to peer
               with his New Jersey/New York pop due to the fact that he runs a
               production connection off of this.
+
+
+              <!---->
 
 
               *   andrewnet's New Jersey pop obtains transit over a GRE tunnel
@@ -51,7 +54,7 @@ sections:
               [45.41.37.0/24](https://bgp.he.net/net/45.41.37.0/24).
 
 
-              ## Netherlands
+              ### Netherlands
 
 
               *   andrewnet has a very open peering policy for his Netherlands
@@ -72,11 +75,14 @@ sections:
               [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
 
 
-              # Fremont
+              ### Fremont
 
 
               *   andrewnet has a very open peering policy for his Fremont pop
               and is willing to peer through a tunnel (vxlan preferred).
+
+
+              <!---->
 
 
               *   andrewnet's Fremont peering router is located with the
@@ -88,11 +94,14 @@ sections:
               [2602:fc26:2::/48](https://bgp.he.net/net/2602:fc26:2::/48).
 
 
-              # Kansas City
+              ### Kansas City
 
 
               *   andrewnet has a very open peering policy for his Kansas City
               pop and is willing to peer through a tunnel (vxlan preferred).
+
+
+              <!---->
 
 
               *   andrewnet's MCI peering router is located with the upstream,
