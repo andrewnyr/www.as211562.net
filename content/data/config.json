@@ -141,13 +141,6 @@
                 "label": "Twitter",
                 "url": "/",
                 "icon": "twitter"
-            },
-            {
-                "type": "Social",
-                "altText": "Instagram",
-                "label": "Instagram",
-                "url": "/",
-                "icon": "instagram"
             }
         ],
         "legalLinks": [
