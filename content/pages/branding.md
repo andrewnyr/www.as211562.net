@@ -3,7 +3,7 @@ title: Branding Guidelines
 sections:
   - colors: colors-a
     elementId: ''
-    title: Open roles
+    title: branding guidelines
     subtitle: ''
     jobLists:
       - type: JobList
