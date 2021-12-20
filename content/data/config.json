@@ -28,7 +28,7 @@
                 "type": "Link",
                 "label": "CONTACT",
                 "altText": "Blog",
-                "url": "/blog"
+                "url": "https://www.andrewnet.net/contact-me/"
             }
         ],
         "secondaryLinks": [
