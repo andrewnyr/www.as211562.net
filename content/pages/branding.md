@@ -33,11 +33,12 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >
+              our goal is to create a unified set of colors for our brand. this
+              also encompasses the stylization of text and colors on our
+              website.
+
+              below you can find some vector copies of our logo.
             actions: []
     styles:
       self:
