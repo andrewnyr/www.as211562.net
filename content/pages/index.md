@@ -172,8 +172,7 @@ sections:
       styles:
         self:
           textAlign: left
-    text: |+
-      !\[]\(https://bgp.he.net/graphs/as211562-ipv6.svg)
+
 
     actions:
       - type: Button
