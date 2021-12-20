@@ -14,7 +14,7 @@ sections:
     text: >
       ### welcome to the homepage of my personal network, as211562. this mainly
       exists for educational purposes as i navigate the intricacies of advanced
-      network topologies. please contact me if you would like to help!
+      network topologies.
     actions: []
     styles:
       self:
