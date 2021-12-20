@@ -17,11 +17,7 @@ sections:
       network topologies.
 
 
-    actions:
-      - type: Button
-        label: Sign Up
-        url: /
-        style: primary
+    actions: []
     styles:
       self:
         height: auto
