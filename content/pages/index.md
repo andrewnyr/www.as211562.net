@@ -21,10 +21,6 @@ sections:
         label: Sign Up
         url: /
         style: primary
-    media:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero image
     styles:
       self:
         height: auto
