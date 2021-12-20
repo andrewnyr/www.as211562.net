@@ -132,10 +132,10 @@ sections:
           - ml-5
           - mr-5
         padding:
-          - pt-1
-          - pb-1
-          - pl-1
-          - pr-1
+          - pt-6
+          - pb-6
+          - pl-6
+          - pr-6
         alignItems: center
         justifyContent: center
         flexDirection: row
