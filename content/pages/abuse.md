@@ -67,7 +67,7 @@ sections:
               - type: Link
                 label: Apply
                 url: /
-                showIcon: false
+                showIcon: true
                 icon: chevronRight
                 iconPosition: right
     styles:
