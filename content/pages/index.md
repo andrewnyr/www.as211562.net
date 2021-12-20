@@ -92,7 +92,7 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: IPinfo
         altText: ''
         url: /
         showIcon: false
