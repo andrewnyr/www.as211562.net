@@ -39,8 +39,12 @@ sections:
               website.
 
 
-
               below you can find some vector copies of our logo.
+
+
+
+
+              ![](/images/edited-as211562-logo.svg)
             actions: []
     styles:
       self:
