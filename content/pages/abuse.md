@@ -9,8 +9,7 @@ sections:
       AS211562 is a small educational network operated by Andrew Asciutto.
 
 
-
-      ## Law Enforcement
+      ### Law Enforcement
 
 
       while andrewnet does not tolerate any illegal activities of any kind, we
@@ -19,7 +18,7 @@ sections:
       please reach out through my contact form.
 
 
-      ## Non-Law Enforcement
+      ### Non-Law Enforcement
 
 
       andrewnet will not tolerate any abuse of any kind and is willing to
