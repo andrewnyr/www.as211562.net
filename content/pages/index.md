@@ -47,7 +47,6 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-f
-    title: The Section Title
     subtitle: The section subtitle
     text: >-
       Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium
