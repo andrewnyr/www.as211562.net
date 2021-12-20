@@ -47,7 +47,7 @@ sections:
     type: FeatureHighlightSection
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: information
     text: >
       we announce a few different ipv4 and ipv6 prefixes to the dfz. you can
