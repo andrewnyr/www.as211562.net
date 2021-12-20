@@ -76,7 +76,7 @@ sections:
         type: Button
       - label: QRATOR
         altText: ''
-        url: /
+        url: 'https://www.as211562.net/qrator'
         showIcon: false
         icon: arrowRight
         iconPosition: right
