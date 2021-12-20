@@ -27,7 +27,7 @@ sections:
     actions:
       - type: Button
         label: Report Abuse
-        url: /
+        url: 'https://www.andrewnet.net/contact-me/'
         style: primary
     backgroundImage: null
     styles:
