@@ -3,45 +3,6 @@ title: Home
 layout: PageLayout
 sections:
   - elementId: ''
-    colors: colors-h
-    backgroundSize: full
-    subtitle: ''
-    badge:
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-    text: |
-      ### **welcome to the homepage of my personal network, as211562.**
-    actions: []
-    styles:
-      self:
-        height: auto
-        width: full
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-1
-          - pl-4
-          - pr-4
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-        borderColor: border-complementary
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-  - elementId: ''
     colors: colors-f
     subtitle: 'welcome to the homepage of my personal network, as211562.'
     styles:
