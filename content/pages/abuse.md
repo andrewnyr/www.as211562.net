@@ -68,7 +68,7 @@ sections:
                 label: Apply
                 url: /
                 showIcon: false
-                icon: mail
+                icon: chevronLeft
                 iconPosition: right
     styles:
       self:
