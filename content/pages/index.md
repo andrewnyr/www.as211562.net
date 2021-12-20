@@ -111,9 +111,31 @@ sections:
     colors: colors-c
     backgroundSize: full
     title: supporters
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: >
+      <https://www.bakker-it.eu> - IPv6 Prefix(s) and Compute\<!---->\<!---->
+
+
+
+
+      *   <https://kagl.me> - IPv6 Prefix(s)
+
+
+      *   <https://globalsecurelayer.com> - BGP Tunnel
+
+
+      <!---->
+
+
+      *   [https://as206628.net](https://as206628.net/) - Compute
+
+
+      *   <https://www.xenyth.net> - Waived BGP Fee
+
+
+      andrewnet is a small network operated by a broke college student. if you
+      would like to support me in my goals by hosting a node, providing a
+      tunnel, or allocating a prefix, please [contact
+      me](https://www.as211562.net/contact/).
     actions:
       - type: Button
         label: Try it now
