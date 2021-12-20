@@ -94,7 +94,7 @@ sections:
         type: Button
       - label: IPinfo
         altText: ''
-        url: /
+        url: 'https://ipinfo.io/AS211562'
         showIcon: false
         icon: arrowRight
         iconPosition: right
