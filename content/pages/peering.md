@@ -138,8 +138,6 @@ sections:
               Map
             actions: []
       - type: JobList
-        items: []
-      - type: JobList
         title: Sales
         items:
           - type: JobListItem
