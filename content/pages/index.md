@@ -65,7 +65,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: BGP.HE.NET
         altText: ''
         url: /
         showIcon: false
