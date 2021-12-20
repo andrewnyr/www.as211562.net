@@ -108,47 +108,6 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-b
-    backgroundSize: full
-    title: our network
-    subtitle: thanks to bgp.he.net
-    badge:
-      elementId: ''
-      styles:
-        self:
-          textAlign: left
-    actions: []
-    media:
-      type: ImageBlock
-      url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
-      altText: network map
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-14
-          - pb-14
-          - pl-14
-          - pr-14
-        alignItems: center
-        justifyContent: center
-        flexDirection: row
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-    type: FeatureHighlightSection
-  - elementId: ''
     colors: colors-c
     backgroundSize: full
     title: supporters
@@ -202,4 +161,45 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
+  - elementId: ''
+    colors: colors-b
+    backgroundSize: full
+    title: our network
+    subtitle: thanks to bgp.he.net
+    badge:
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+    actions: []
+    media:
+      type: ImageBlock
+      url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
+      altText: network map
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-14
+          - pb-14
+          - pl-14
+          - pr-14
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: FeatureHighlightSection
 ---
