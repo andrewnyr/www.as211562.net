@@ -46,6 +46,14 @@ sections:
 
 
               ![](/images/edited-as211562-logo.svg)
+
+
+              #### website styles
+
+
+              here at as211562 and andrewnet we like lowercase text. it is by
+              design that we do not capitalize in our logo and throughout our
+              website.
             actions: []
     styles:
       self:
