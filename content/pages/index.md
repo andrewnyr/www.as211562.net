@@ -13,9 +13,12 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >+
+      welcome to the homepage of my personal network, as211562. this mainly
+      exists for educational purposes as i navigate the intricacies of advanced
+      network topologies.
+
+
     actions:
       - type: Button
         label: Sign Up
