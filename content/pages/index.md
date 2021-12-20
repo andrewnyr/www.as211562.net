@@ -82,12 +82,6 @@ sections:
         style: secondary
         elementId: ''
         type: Button
-      - type: Button
-        label: Learn More
-        showIcon: true
-        icon: arrowRight
-        url: /
-        style: link
     backgroundImage: null
     styles:
       self:
