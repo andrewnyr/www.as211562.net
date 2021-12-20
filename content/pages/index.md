@@ -11,10 +11,8 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >
-      ### **welcome to the homepage of my personal network, as211562. this
-      mainly exists for educational purposes as i navigate the intricacies of
-      advanced network topologies.**
+    text: |
+      ### **welcome to the homepage of my personal network, as211562.**
     actions: []
     styles:
       self:
