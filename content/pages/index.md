@@ -47,7 +47,7 @@ sections:
         label: Abuse
         url: /abuse
         style: primary
-      - label: Learn more
+      - label: PeeringDB
         altText: ''
         url: 'https://www.as211562.net/peeringdb'
         showIcon: false
