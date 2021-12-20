@@ -38,6 +38,8 @@ sections:
               also encompasses the stylization of text and colors on our
               website.
 
+
+
               below you can find some vector copies of our logo.
             actions: []
     styles:
