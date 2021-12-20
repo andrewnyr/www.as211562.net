@@ -110,7 +110,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "/blog",
+                "url": "https://www.andrewnet.net/contact-me/",
                 "altText": ""
             }
         ],
