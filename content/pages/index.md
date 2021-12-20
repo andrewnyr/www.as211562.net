@@ -67,7 +67,7 @@ sections:
         type: Button
       - label: BGP.HE.NET
         altText: ''
-        url: /
+        url: 'https://www.as211562.net/hurricane'
         showIcon: false
         icon: arrowRight
         iconPosition: right
