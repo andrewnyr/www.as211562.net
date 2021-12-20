@@ -32,9 +32,16 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: information
-    text: >
+    text: >+
       we announce a few different ipv4 and ipv6 prefixes to the dfz. you can
       view some information about our network here.
+
+
+
+
+      this mainly exists for educational purposes as i navigate the intricacies
+      of advanced network topologies.
+
     actions:
       - type: Button
         label: Try it now
