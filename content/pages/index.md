@@ -115,7 +115,7 @@ sections:
           - pt-24
           - pb-24
           - pl-4
-          - pr-4
+          - pr-0
         alignItems: flex-start
         justifyContent: center
         flexDirection: col
