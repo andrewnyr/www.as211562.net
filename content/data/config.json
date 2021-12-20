@@ -147,7 +147,7 @@
                 "altText": "",
                 "url": "https://github.com/andrewnyr",
                 "icon": "facebook",
-                "style": "link",
+                "style": "primary",
                 "elementId": ""
             }
         ],
