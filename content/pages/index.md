@@ -105,7 +105,7 @@ sections:
           - pb-24
           - pl-4
           - pr-4
-        alignItems: flex-start
+        alignItems: center
         justifyContent: flex-start
         flexDirection: col
       title:
