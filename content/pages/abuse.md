@@ -34,7 +34,6 @@ sections:
         title: Product
         items:
           - type: JobListItem
-            title: Director of product management
             text: >
               AS211562 is a small educational network operated by Andrew
               Asciutto.
