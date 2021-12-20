@@ -5,9 +5,7 @@ sections:
     elementId: ''
     title: Peering With AS211562
     subtitle: ''
-    jobLists:
-      - type: JobList
-        items: []
+    jobLists: []
     styles:
       self:
         height: auto
