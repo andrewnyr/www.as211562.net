@@ -56,10 +56,10 @@
     "complementary": "#f6f1ed",
     "onComplementary": "#000000",
     "buttonPrimary": {
-        "weight": "normal",
-        "case": "none",
+        "weight": "bold",
+        "case": "capitalize",
         "letterSpacing": "normal",
-        "borderRadius": "none",
+        "borderRadius": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "shadow": "none"

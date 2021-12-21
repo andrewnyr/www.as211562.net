@@ -2,8 +2,8 @@
     "type": "Config",
     "header": {
         "headerVariant": "variant-c",
-        "primaryColors": "colors-f",
-        "secondaryColors": "colors-f",
+        "primaryColors": "colors-a",
+        "secondaryColors": "colors-a",
         "isTitleVisible": false,
         "primaryLinks": [
             {
@@ -73,7 +73,7 @@
                 }
             },
             "type": "ImageBlock",
-            "url": "/images/as211562-monowhite.svg"
+            "url": "/images/edited-as211562-logo.svg"
         },
         "title": "as211562"
     },
