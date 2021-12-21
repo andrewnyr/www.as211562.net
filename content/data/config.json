@@ -3,7 +3,7 @@
     "header": {
         "headerVariant": "variant-c",
         "primaryColors": "colors-a",
-        "secondaryColors": "colors-f",
+        "secondaryColors": "colors-a",
         "isTitleVisible": false,
         "primaryLinks": [
             {
