@@ -59,7 +59,7 @@
         "weight": "bold",
         "case": "capitalize",
         "letterSpacing": "normal",
-        "borderRadius": "none",
+        "borderRadius": "md",
         "horizontalPadding": 30,
         "verticalPadding": 12,
         "shadow": "none"
