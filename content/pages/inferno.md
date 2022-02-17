@@ -284,9 +284,8 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-a
     title: what more is there to say?
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: |
+      contact today or i will cry
     actions:
       - type: Button
         label: Get Started
