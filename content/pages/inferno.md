@@ -125,7 +125,7 @@ sections:
       - type: ImageBlock
         caption: ZCOOL
         altText: ZCOOL
-    columns: 1
+    columns: 2
     spacing: 0
     imageSizePx: 240
     aspectRatio: auto
