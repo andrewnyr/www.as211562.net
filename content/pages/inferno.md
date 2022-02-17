@@ -234,7 +234,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-a
+    colors: colors-c
     title: tell em i sent you
     text: >
       eventually connor will have to send me a tesla for all of the referrals i
@@ -324,5 +324,86 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
+  - elementId: ''
+    colors: colors-e
+    title: buy in time for easter
+    subtitle: ''
+    badge:
+      elementId: ''
+      styles:
+        self:
+          textAlign: left
+    text: >
+      who wouldn't want an asn for easter? for kids or adults, get an asn from
+      inferno today!
+    actions:
+      - type: Button
+        label: get my asn
+        url: 'https://infernocomms.com/'
+        style: primary
+    media:
+      type: ImageBlock
+      url: /images/inferno-easter.png
+      altText: Hero image
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-12
+          - pb-12
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      subtitle:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: HeroSection
+  - elementId: ''
+    colors: colors-a
+    quote: |
+      "I wish i would’ve met inferno sooner, it really changed my life."
+    name: Eric Zhu
+    title: Operator of EricNet
+    backgroundImage: null
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-36
+          - pb-36
+          - pl-4
+          - pr-4
+        justifyContent: center
+      quote:
+        textAlign: center
+      name:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+      title:
+        fontWeight: 400
+        fontStyle: normal
+        textAlign: center
+    type: QuoteSection
 layout: PageLayout
 ---
