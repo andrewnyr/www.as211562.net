@@ -335,10 +335,9 @@ sections:
       styles:
         self:
           textAlign: left
-    text: >-
-      One platform, one community, getting to the bottom line of everything
-      employment.  Figure out your benefits, practice for interviews, get
-      mentored, help peers, get helped in return.
+    text: >
+      who wouldn't want an asn for easter? for kids or adults, get an asn from
+      inferno today!
     actions:
       - type: Button
         label: Sign Up
