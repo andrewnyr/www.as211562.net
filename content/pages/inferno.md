@@ -152,7 +152,7 @@ sections:
         textAlign: center
   - type: FeaturedItemsSection
     colors: colors-a
-    title: Remote doesn’t mean alone. Here are so great features
+    title: more reasons to use inferno
     subtitle: >-
       These are all excellent features that will provide exactly the things
       you’re looking for.
