@@ -2,7 +2,7 @@
 title: inferno
 sections:
   - type: HeroSection
-    colors: colors-a
+    colors: colors-c
     title: i love inferno communications
     subtitle: 'the best lir, thanks connor'
     actions:
