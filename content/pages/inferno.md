@@ -198,7 +198,7 @@ sections:
             borderStyle: solid
             borderWidth: 1
       - type: FeaturedItem
-        title: Focused
+        title: kind connor
         text: >-
           Learn how top tech companies have learned working remote using our
           product.
