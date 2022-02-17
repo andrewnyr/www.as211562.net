@@ -3,7 +3,7 @@ title: inferno
 sections:
   - type: HeroSection
     colors: colors-e
-    title: i love inferno communications
+    title: i love inferno comms
     subtitle: 'the best lir, thanks connor'
     actions:
       - type: Button
