@@ -324,5 +324,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
 layout: PageLayout
 ---
