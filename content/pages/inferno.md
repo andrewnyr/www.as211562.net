@@ -113,7 +113,7 @@ sections:
         caption: Gatsby
         altText: Gatsby
       - type: ImageBlock
-        caption: Apple
+        caption: joe
         altText: joe
         url: /images/icon-42d3f7209ff0386a487aa1c287bf6bda.png
       - type: ImageBlock
