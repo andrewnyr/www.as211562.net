@@ -3,7 +3,7 @@ title: inferno
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: i love inferno communications
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
