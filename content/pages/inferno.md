@@ -327,7 +327,7 @@ sections:
     backgroundSize: full
   - elementId: ''
     colors: colors-a
-    title: Love where you work
+    title: buy in time for easter
     subtitle: ''
     badge:
       label: This is the badge
