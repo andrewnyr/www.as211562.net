@@ -105,7 +105,6 @@ sections:
     subtitle: Trusted by
     images:
       - type: ImageBlock
-        url: /images/apple.svg
         caption: Apple
         altText: Apple
       - type: ImageBlock
