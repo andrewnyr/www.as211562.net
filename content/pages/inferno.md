@@ -374,9 +374,8 @@ sections:
     type: HeroSection
   - elementId: ''
     colors: colors-a
-    quote: |-
-      “It’s great to see someone taking action while still maintaining a
-      sustainable fish supply to home cooks.”
+    quote: |
+      "I wish i would’ve met inferno sooner, it really changed my life."
     name: Eric Zhu
     title: Operator of EricNet
     backgroundImage: null
