@@ -330,7 +330,6 @@ sections:
     title: buy in time for easter
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
