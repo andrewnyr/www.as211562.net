@@ -53,7 +53,6 @@ sections:
       well, i love inferno for his speedy service and friendly demeanor
     badge:
       type: Badge
-      label: Case study
       styles:
         self:
           textAlign: left
