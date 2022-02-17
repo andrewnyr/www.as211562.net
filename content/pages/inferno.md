@@ -58,7 +58,7 @@ sections:
           textAlign: left
     actions:
       - type: Button
-        label: Get Started
+        label: you should love inferno too
         url: /
         style: primary
       - type: Link
