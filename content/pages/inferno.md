@@ -326,7 +326,7 @@ sections:
         justifyContent: flex-start
     backgroundSize: full
   - elementId: ''
-    colors: colors-a
+    colors: colors-e
     title: buy in time for easter
     subtitle: ''
     badge:
