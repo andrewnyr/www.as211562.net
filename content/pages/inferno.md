@@ -340,7 +340,7 @@ sections:
     actions:
       - type: Button
         label: get my asn
-        url: /
+        url: 'https://infernocomms.com/'
         style: primary
     media:
       type: ImageBlock
