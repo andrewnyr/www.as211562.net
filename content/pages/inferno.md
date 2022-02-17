@@ -234,7 +234,7 @@ sections:
       subtitle:
         textAlign: center
   - type: FeatureHighlightSection
-    colors: colors-a
+    colors: colors-c
     title: tell em i sent you
     text: >
       eventually connor will have to send me a tesla for all of the referrals i
