@@ -145,13 +145,6 @@
                 "style": "primary"
             },
             {
-                "label": "Facebook",
-                "altText": "",
-                "url": "/",
-                "style": "link",
-                "elementId": ""
-            },
-            {
                 "label": "Github",
                 "altText": "",
                 "url": "https://github.com/andrewnyr",
