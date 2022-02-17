@@ -64,7 +64,7 @@ sections:
       - type: Link
         url: /
         style: link
-        showIcon: true
+        showIcon: false
         icon: playCircle
         iconPosition: left
     media:
