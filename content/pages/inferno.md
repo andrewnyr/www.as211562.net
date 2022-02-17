@@ -340,7 +340,7 @@ sections:
       inferno today!
     actions:
       - type: Button
-        label: Sign Up
+        label: get my asn
         url: /
         style: primary
     media:
