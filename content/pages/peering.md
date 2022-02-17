@@ -33,29 +33,22 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
+            text: >+
               ### Toronto
 
 
-              *   andrewnet has a very open peering policy for his Toronto pop
-              and is willing to peer through a mutual exchange or through a
-              tunnel (vxlan preferred).
+              *   i have a very open peering policy for my Toronto pop and i am
+              willing to peer through a mutual exchange or through a tunnel
+              (vxlan preferred).
 
 
               <!---->
 
 
-              *   andrewnet's Toronto peering router is located with the
-              upstream, [GoCodeIt](https://bgp.he.net/AS62513). This box is
-              hosted on the cloud provider,
-              [Xenyth](https://xenyth.net/?affid=29) at Equinix TR2.
-
-
-              <!---->
-
-
-              *   the range broadcasted from this pop is
-              [2602:fc26:6::/48](https://bgp.he.net/net/2602:fc26:6::/48).
+              *   my Toronto peering router is located with the upstream,
+              [GoCodeIt](https://bgp.he.net/AS62513). This box is hosted on the
+              cloud provider, [Xenyth](https://xenyth.net/?affid=29) at Equinix
+              TR2.
 
 
               ### New Jersey
@@ -136,6 +129,7 @@ sections:
               *   the range broadcasted from this pop is
               [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).Network
               Map
+
             actions: []
     styles:
       self:
