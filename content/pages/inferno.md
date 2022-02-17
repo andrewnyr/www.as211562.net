@@ -376,7 +376,7 @@ sections:
     colors: colors-a
     quote: |
       "I wish i would’ve met inferno sooner, it really changed my life."
-    name: Eric Zhu
+    name: eric zhu
     title: Operator of EricNet
     backgroundImage: null
     styles:
