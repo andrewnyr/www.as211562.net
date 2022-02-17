@@ -159,9 +159,8 @@ sections:
     items:
       - type: FeaturedItem
         title: fast service
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          inferno is by far the fastest ripe lir, no other can compare
         featuredImage:
           type: ImageBlock
           url: /images/faster.svg
