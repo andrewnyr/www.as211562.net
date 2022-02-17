@@ -124,7 +124,6 @@ sections:
         caption: Xbox
         altText: Xbox
       - type: ImageBlock
-        url: /images/skype.svg
         caption: Apple
         altText: Apple
       - type: ImageBlock
