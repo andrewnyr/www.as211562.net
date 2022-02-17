@@ -287,7 +287,7 @@ sections:
     actions:
       - type: Button
         label: Get Started
-        url: /
+        url: 'https://infernocomms.com/'
         style: primary
       - type: Link
         label: Learn More
