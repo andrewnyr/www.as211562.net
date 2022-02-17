@@ -7,7 +7,7 @@ sections:
     subtitle: 'the best lir, thanks connor'
     actions:
       - type: Button
-        label: Get Started
+        label: he is a great british bloke
         url: /
         style: primary
       - type: Link
