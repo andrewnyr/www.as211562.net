@@ -62,7 +62,6 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Watch Video
         url: /
         style: link
         showIcon: true
