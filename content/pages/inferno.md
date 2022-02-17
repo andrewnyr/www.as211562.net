@@ -99,7 +99,7 @@ sections:
       actions:
         justifyContent: flex-start
   - type: MediaGallerySection
-    colors: colors-h
+    colors: colors-c
     title: ''
     subtitle: 'Trusted by: joe from pydiscord (need i say more??)'
     images:
