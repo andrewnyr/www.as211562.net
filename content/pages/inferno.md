@@ -59,7 +59,7 @@ sections:
     actions:
       - type: Button
         label: you should love inferno too
-        url: /
+        url: 'https://infernocomms.com/'
         style: primary
       - type: Link
         url: /
