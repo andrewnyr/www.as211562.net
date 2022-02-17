@@ -326,35 +326,6 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
-  - type: FeaturedPostsSection
-    colors: colors-a
-    variant: variant-b
-    actions: []
-    showDate: true
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
   - type: FaqSection
     colors: colors-f
     title: Need Answers?
