@@ -197,9 +197,8 @@ sections:
             borderWidth: 1
       - type: FeaturedItem
         title: kind connor
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
+        text: |
+          what other company gets you **THE **kind connor?
         featuredImage:
           type: ImageBlock
           url: /images/focused.svg
