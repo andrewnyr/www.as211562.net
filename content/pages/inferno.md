@@ -329,13 +329,7 @@ sections:
   - type: FeaturedPostsSection
     colors: colors-a
     variant: variant-b
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
+    actions: []
     showDate: true
     posts:
       - content/pages/blog/post-four.md
