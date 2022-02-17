@@ -11,7 +11,7 @@ sections:
         url: /
         style: primary
       - type: Link
-        label: Learn More
+        label: tell him i sent you
         url: /
         showIcon: true
         icon: arrowRight
