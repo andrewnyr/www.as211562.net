@@ -49,9 +49,8 @@ sections:
     colors: colors-f
     backgroundSize: inset
     title: why should i care?
-    text: >-
-      Learn how top tech companies have learned working remote using our
-      product.
+    text: |
+      well, i love inferno for his speedy service and friendly demeanor
     badge:
       type: Badge
       label: Case study
