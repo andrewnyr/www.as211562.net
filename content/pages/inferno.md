@@ -299,7 +299,7 @@ sections:
         iconPosition: right
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/inferno-ad-4.png
       altText: Hero section image
     styles:
       self:
