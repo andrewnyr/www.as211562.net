@@ -333,7 +333,7 @@ sections:
       - type: Link
         label: See all posts
         url: /blog
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
     showDate: true
