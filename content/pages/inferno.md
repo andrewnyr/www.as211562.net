@@ -238,9 +238,9 @@ sections:
   - type: FeatureHighlightSection
     colors: colors-a
     title: tell em i sent you
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
+    text: >
+      eventually connor will have to send me a tesla for all of the referrals i
+      send his way
     actions:
       - type: Button
         label: Get Started
