@@ -127,7 +127,6 @@ sections:
         caption: Apple
         altText: Apple
       - type: ImageBlock
-        url: /images/zcool.svg
         caption: ZCOOL
         altText: ZCOOL
     columns: 7
