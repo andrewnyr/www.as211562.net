@@ -283,7 +283,7 @@ sections:
         justifyContent: flex-start
   - type: FeatureHighlightSection
     colors: colors-a
-    title: And a strong value proposition
+    title: what more is there to say?
     text: >-
       Share WIP, comment on each other’s work, approve what’s ready to go, ship
       together
