@@ -4,7 +4,7 @@ sections:
   - type: HeroSection
     colors: colors-a
     title: i love inferno communications
-    subtitle: 'One platform, one community.'
+    subtitle: 'the best lir, thanks connor'
     actions:
       - type: Button
         label: Get Started
