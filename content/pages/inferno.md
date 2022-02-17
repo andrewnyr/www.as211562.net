@@ -70,7 +70,7 @@ sections:
         iconPosition: left
     media:
       type: ImageBlock
-      url: /images/hero-3.jpg
+      url: /images/inferno-ad-2.png
       altText: Team meeting
     styles:
       self:
