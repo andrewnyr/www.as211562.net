@@ -346,7 +346,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero.png
+      url: /images/inferno-easter.png
       altText: Hero image
     styles:
       self:
