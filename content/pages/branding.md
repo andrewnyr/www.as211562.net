@@ -37,7 +37,7 @@ sections:
               #### introduction
 
 
-              our goal is to create a unified set of colors for our brand. this
+              my goal is to create a unified set of colors for the brand. this
               also encompasses the stylization of text and colors on our
               website.
 
@@ -51,9 +51,9 @@ sections:
               #### website styles
 
 
-              here at as211562 and andrewnet we like lowercase text. it is by
-              design that we do not capitalize in our logo and throughout our
-              website.
+              here at as211562 and andrewnet i like to use lowercase text. it is
+              by design that i do not capitalize in my logo(s) and throughout
+              the website.
             actions: []
     styles:
       self:
