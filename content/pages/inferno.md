@@ -113,12 +113,12 @@ sections:
         caption: Gatsby
         altText: Gatsby
       - type: ImageBlock
+        caption: Xbox
+        altText: Xbox
+      - type: ImageBlock
         caption: joe
         altText: joe
         url: /images/icon-42d3f7209ff0386a487aa1c287bf6bda.png
-      - type: ImageBlock
-        caption: Xbox
-        altText: Xbox
       - type: ImageBlock
         caption: Apple
         altText: Apple
