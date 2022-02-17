@@ -373,11 +373,11 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-b
     quote: |
       "I wish i would’ve met inferno sooner, it really changed my life."
-    name: Eric Zhu
-    title: Operator of EricNet
+    name: '- eric zhu'
+    title: operator of ericnet
     backgroundImage: null
     styles:
       self:
