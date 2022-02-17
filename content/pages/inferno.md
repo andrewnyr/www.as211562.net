@@ -114,7 +114,7 @@ sections:
         caption: PlayStation
         altText: PlayStation
       - type: ImageBlock
-        url: /images/as211562 logo.svg
+        url: /images/edited-as211562-logo.svg
         caption: Gatsby
         altText: Gatsby
       - type: ImageBlock
