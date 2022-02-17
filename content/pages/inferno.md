@@ -153,9 +153,7 @@ sections:
   - type: FeaturedItemsSection
     colors: colors-a
     title: more reasons to use inferno
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
+    subtitle: 'well, for one, the name is pretty cool ngl'
     items:
       - type: FeaturedItem
         title: fast service
