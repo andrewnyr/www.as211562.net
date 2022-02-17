@@ -13,7 +13,7 @@ sections:
       - type: Link
         label: tell him i sent you
         url: /
-        showIcon: true
+        showIcon: false
         icon: arrowRight
         iconPosition: right
     media:
