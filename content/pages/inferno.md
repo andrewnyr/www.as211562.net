@@ -291,7 +291,7 @@ sections:
         style: primary
       - type: Link
         label: Learn More
-        url: /
+        url: 'https://infernocomms.com/'
         showIcon: true
         icon: arrowRight
         iconPosition: right
