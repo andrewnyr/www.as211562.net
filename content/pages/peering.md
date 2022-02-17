@@ -54,81 +54,64 @@ sections:
               ### New Jersey
 
 
-              *   andrewnet does have a selective policy for who is able to peer
-              with his New Jersey/New York pop due to the fact that he runs a
-              production connection off of this.
+              *   i do have a selective policy for who is able to peer with my
+              New Jersey/New York pop due to the fact that i run a production
+              connection off of this.
 
 
               <!---->
 
 
-              *   andrewnet's New Jersey pop obtains transit over a GRE tunnel
-              to upstream [Global Secure Layer](https://bgp.he.net/AS137409).
-
-
-              *   the range broadcasted from this pop are
-              [2605:f440:6969::/48](https://bgp.he.net/net/2605:f440:6969::/48),[
-              2602:fc26::/48](https://bgp.he.net/net/2602:fc26::/48), and
-              [45.41.37.0/24](https://bgp.he.net/net/45.41.37.0/24).
+              *   my New Jersey pop obtains transit over a GRE tunnel to
+              upstream [Global Secure Layer](https://bgp.he.net/AS137409), with
+              connections to my other pops.
 
 
               ### Netherlands
 
 
-              *   andrewnet has a very open peering policy for his Netherlands
-              pop and is willing to peer through a tunnel (vxlan preferred).
+              *   i have a very open peering policy for my Netherlands pop and
+              is willing to peer through a tunnel (vxlan preferred).
 
 
               <!---->
 
 
-              *   andrewnet's Netherlands peering router is located with the
-              upstream, [Bakker IT](https://bgp.he.net/AS44103).
+              *   my Netherlands peering router is located with the upstream,
+              [Bakker IT](https://bgp.he.net/AS44103).
 
 
               <!---->
 
 
-              *   the range broadcasted from this pop is
-              [2a0e:fd45:2b00::/44](https://bgp.he.net/net/2a0e:fd45:2b00::/44).
 
 
               ### Fremont
 
 
-              *   andrewnet has a very open peering policy for his Fremont pop
-              and is willing to peer through a tunnel (vxlan preferred).
+              *   i have a very open peering policy for my Fremont pop and is
+              willing to peer through a tunnel (vxlan preferred).
 
 
               <!---->
 
 
-              *   andrewnet's Fremont peering router is located with the
-              upstream, [Eric ](https://ericz.me/)at Hurricane Electric's FMT2
-              Data Center.
-
-
-              *   the range broadcasted from this pop is
-              [2602:fc26:2::/48](https://bgp.he.net/net/2602:fc26:2::/48).
+              *   my Fremont peering router is located with the upstream, [Eric
+              ](https://ericz.me/)at Hurricane Electric's FMT2 Data Center.
 
 
               ### Kansas City
 
 
-              *   andrewnet has a very open peering policy for his Kansas City
-              pop and is willing to peer through a tunnel (vxlan preferred).
+              *   i have a very open peering policy for my Kansas City pop and
+              is willing to peer through a tunnel (vxlan preferred).
 
 
               <!---->
 
 
-              *   andrewnet's MCI peering router is located with the upstream,
+              *   my MCI peering router is located with the upstream,
               [Fosshost](https://fosshost.org/).
-
-
-              *   the range broadcasted from this pop is
-              [2602:fc26:8::/48](https://bgp.he.net/net/2602:fc26:8::/48).Network
-              Map
 
             actions: []
     styles:
