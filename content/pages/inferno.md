@@ -12,7 +12,7 @@ sections:
         style: primary
       - type: Link
         label: tell him i sent you
-        url: /
+        url: 'https://infernocomms.com/'
         showIcon: false
         icon: arrowRight
         iconPosition: right
