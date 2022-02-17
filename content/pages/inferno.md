@@ -126,7 +126,7 @@ sections:
         caption: ZCOOL
         altText: ZCOOL
     columns: 7
-    spacing: 3
+    spacing: 0
     imageSizePx: 240
     aspectRatio: auto
     showCaption: false
