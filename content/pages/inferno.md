@@ -373,7 +373,7 @@ sections:
         justifyContent: flex-start
     type: HeroSection
   - elementId: ''
-    colors: colors-c
+    colors: colors-a
     quote: |
       "I wish i would’ve met inferno sooner, it really changed my life."
     name: eric zhu
