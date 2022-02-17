@@ -111,12 +111,12 @@ sections:
         caption: PlayStation
         altText: PlayStation
       - type: ImageBlock
+        caption: Gatsby
+        altText: Gatsby
+      - type: ImageBlock
         caption: Apple
         altText: Apple
         url: /images/icon-42d3f7209ff0386a487aa1c287bf6bda.png
-      - type: ImageBlock
-        caption: Gatsby
-        altText: Gatsby
       - type: ImageBlock
         caption: Xbox
         altText: Xbox
