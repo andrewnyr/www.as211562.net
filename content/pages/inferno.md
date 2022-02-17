@@ -19,7 +19,7 @@ sections:
     media:
       type: ImageBlock
       url: /images/inferno-ad-1.png
-      altText: Hero section image
+      altText: funny inferno advert
     styles:
       self:
         height: auto
