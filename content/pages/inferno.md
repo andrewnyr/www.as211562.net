@@ -8,7 +8,7 @@ sections:
     actions:
       - type: Button
         label: he is a great british bloke
-        url: /
+        url: 'https://infernocomms.com/'
         style: primary
       - type: Link
         label: tell him i sent you
