@@ -172,5 +172,6 @@
             }
         }
     },
-    "favicon": "/favicon.ico"
+    "favicon": "/favicon.ico",
+    "defaultSocialImage": "/images/as211562-meta.png"
 }
