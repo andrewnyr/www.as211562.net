@@ -42,7 +42,7 @@
                 "altText": "",
                 "url": "https://status.as211562.net/",
                 "showIcon": true,
-                "icon": "arrowRight",
+                "icon": "chevronRight",
                 "iconPosition": "right",
                 "elementId": "",
                 "type": "Link"
