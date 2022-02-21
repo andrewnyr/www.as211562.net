@@ -4,8 +4,9 @@ layout: PageLayout
 sections:
   - elementId: ''
     colors: colors-e
-    text: |
-      ## welcome to the homepage of my network, as211562.
+    text: |+
+      ## welcome to the homepage of as211562
+
     styles:
       self:
         height: auto
