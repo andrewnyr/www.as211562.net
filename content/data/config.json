@@ -30,7 +30,8 @@
                 "label": "CONTACT",
                 "altText": "contact",
                 "url": "https://www.andrewnet.net/contact-me/",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "mail"
             },
             {
                 "label": "Status",
