@@ -29,7 +29,8 @@
                 "type": "Link",
                 "label": "CONTACT",
                 "altText": "contact",
-                "url": "https://www.andrewnet.net/contact-me/"
+                "url": "https://www.andrewnet.net/contact-me/",
+                "showIcon": true
             },
             {
                 "label": "Status",
