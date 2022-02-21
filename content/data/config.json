@@ -18,7 +18,8 @@
                 "label": "Peering",
                 "url": "/peering",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "arrowLeftCircle"
             },
             {
                 "type": "Link",
