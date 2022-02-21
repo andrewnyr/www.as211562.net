@@ -51,7 +51,7 @@
                 "label": "Looking Glass",
                 "altText": "",
                 "url": "https://lg.as211562.net/",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "",
