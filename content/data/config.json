@@ -24,7 +24,8 @@
                 "label": "Abuse",
                 "url": "/abuse",
                 "altText": "",
-                "showIcon": true
+                "showIcon": true,
+                "icon": "apple"
             },
             {
                 "type": "Link",
