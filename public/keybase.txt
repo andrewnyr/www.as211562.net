@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/andrewnyr
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://www.as211562.net
+  * I am andrewnyr (https://keybase.io/andrewnyr) on keybase.
+  * I have a public key with fingerprint CDE7 4871 E94A 0C2C F59F  3B25 FEEA 185C 864C FEA0
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "010136cdf7fb619050391f2c7b36a83834c714bcab0b5db175bbe2cf3375c994d8640a",
+      "fingerprint": "cde74871e94a0c2cf59f3b25feea185c864cfea0",
+      "host": "keybase.io",
+      "key_id": "feea185c864cfea0",
+      "kid": "010136cdf7fb619050391f2c7b36a83834c714bcab0b5db175bbe2cf3375c994d8640a",
+      "uid": "ab8138d32c3f19da203378bd365f9b19",
+      "username": "andrewnyr"
+    },
+    "service": {
+      "hostname": "www.as211562.net",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1620704552,
+  "expire_in": 157680000,
+  "prev": "3e07e1a8d1bd1affe59e909e6c179b8bac66c0c1d6a3ba0c4f0c38712d86bfe7",
+  "seqno": 20,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJbbA1BGMdPW07jIKSaVFGXdY9qZ3b2ehIaidAEcWlSWj2OuW27Tu0e
+u3t62tC4lHioS0KQIxoPgvAgHtzSpxYRIRJBpA/igUopGolEJLTMNrx5NC+T+eb3
+/893mfsTCyKxvNS9xWVPh3B33uPerkxke2540W6JuKxNiu+WUnx0482M+0EyZTMp
+LgEIINIos3SLaNAEKkAmtGSqE6RhAxlIoTpUCMUEEJURqKuEcJlaCOkqNU2FGZoC
+sFQuWbbTyL20ZzuBsKWM64qhQ24qGFDBq6aFiKxanGNoqFSoqMUxEMIm1w8VIjmC
+fV5huyImDsnR9P7B/+e8M6N2mBgQGQzJFFnQZFgGAjQIQ5pqmQSaIehzz8E7eUg7
+zONZp82T2sslEW6xKQ87G5byB8lmsxXYlyFUNbnC4YEwSHtu4FK3Wdw2BUHaj4fq
+oC09inOS/GOUJLbDRDOFooV7vu06UhwKkgZ26Aw1GehAUVW5XOKtadvjSTskVF0z
+gFjhO7xFWCIOdA6xwSBhEFsWV01uApNrFOomMQimmkYBhUzDiIghKRagSIxMFq0h
+FtelsLRdjivFZWEa4Ebh6duNDg4yHpfa7/Y0jInkxSLRsfnhL4vExk3++/duzyoc
+WdY5+8K5w/7Fgd4PnxZfSd7esS82PSiZ2pffP7jn7NbDrdNvXP2SaM/enI82Xn65
+ZZsSjR4ZPvXwRGnl/P51avEcssDv69n8emD5/lvPBg/V9AzFXL1uU/yRd/5N6c6v
+b/XOVysWaKuqagen0SWHHnwaqVxbm9jTfLGu59reTGZ8ybf1U+s6ft4//uHZw6UL
+cyyaj959vbO2uqooAY41lz2/Xn85yr+DVPHpoimVxVunFA3OLrnQf/Tusl9dVa3v
+Exsz79fUPHlTffDMyeLOhrI7n2fmd2/oupQYmVs9YWBDx8cZB45+9AtOqC9qK+pz
+8zrO/3TO9q3OrXRybFLNj1RhQ2ZegfobARE9yw==
+=ddi5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/andrewnyr
+
+==================================================================

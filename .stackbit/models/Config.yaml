@@ -39,4 +39,3 @@ fields:
     items:
       type: model
       models:
-        - MetaTag
