@@ -41,7 +41,7 @@
                 "label": "Status",
                 "altText": "",
                 "url": "https://status.as211562.net/",
-                "showIcon": false,
+                "showIcon": true,
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "elementId": "",
