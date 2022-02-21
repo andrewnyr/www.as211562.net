@@ -19,7 +19,7 @@
                 "url": "/peering",
                 "altText": "",
                 "showIcon": true,
-                "icon": "arrowLeftCircle"
+                "icon": "arrowRightCircle"
             },
             {
                 "type": "Link",
