@@ -215,4 +215,5 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+socialImage: /images/as211562-meta.png
 ---
