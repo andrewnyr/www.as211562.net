@@ -23,7 +23,8 @@
                 "type": "Link",
                 "label": "Abuse",
                 "url": "/abuse",
-                "altText": ""
+                "altText": "",
+                "showIcon": true
             },
             {
                 "type": "Link",
