@@ -95,6 +95,15 @@ sections:
         style: primary
         elementId: ''
         type: Button
+      - label: Learn more
+        altText: ''
+        url: /
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: secondary
+        elementId: ''
+        type: Button
     backgroundImage: null
     styles:
       self:
