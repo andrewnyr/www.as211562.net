@@ -91,9 +91,11 @@ sections:
 
 
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
-              from netherlands.\*   i have a very open peering policy for my
-              netherlands pop and am willing to peer through a tunnel (vxlan
-              preferred).
+              from netherlands.
+
+
+              *   i have a very open peering policy for my netherlands pop and
+              am willing to peer through a tunnel (vxlan preferred).
 
 
               *   my netherlands peering router is located with the upstream,
@@ -104,8 +106,11 @@ sections:
 
 
               *   you can expect 2602:fc26:2::/48 to be announced to the dfz
-              from fremont.\*   i have a very open peering policy for my fremont
-              pop and am willing to peer through a tunnel (vxlan preferred).
+              from fremont. 
+
+
+              *   i have a very open peering policy for my fremont pop and am
+              willing to peer through a tunnel (vxlan preferred).
 
 
               *   my fremont peering router is located with the upstream, [Eric
@@ -116,9 +121,11 @@ sections:
 
 
               *   you can expect 2602:fc26:8::/48 to be announced to the dfz
-              from mci01 with 2602:fc26:12::/48 from mci02.\*   i have a very
-              open peering policy for my kansas city pop and am willing to peer
-              through a tunnel (vxlan preferred).
+              from mci01 with 2602:fc26:12::/48 from mci02. 
+
+
+              *   i have a very open peering policy for my kansas city pop and
+              am willing to peer through a tunnel (vxlan preferred).
 
 
               *   my mci01 peering router is located with the upstream,
