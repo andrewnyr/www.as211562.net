@@ -44,7 +44,7 @@ sections:
               *   time and date of incindent
 
 
-              *   ip address abuse came from
+              *   the ip address the abuse came from
 
 
               *   what type of abuse
