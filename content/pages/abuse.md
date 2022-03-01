@@ -34,8 +34,8 @@ sections:
         items:
           - type: JobListItem
             text: >+
-              ## i will not tolerate any abuse of any kind and am willing to
-              cooperate with all to fix any perceived abuse. 
+              #### i will not tolerate any abuse of any kind and am willing to
+              cooperate with all to fix any perceived abuse.
 
 
               a few things that i will need to investigate abuse are:
@@ -53,11 +53,7 @@ sections:
               *   organization affected
 
 
-
-
-
-
-              ### to report abuse please reach out with the [contact
+              #### to report abuse please reach out with the [contact
               form](https://www.andrewnet.net/contact-me/). i will do my best to
               respond within 24 hours.
 
