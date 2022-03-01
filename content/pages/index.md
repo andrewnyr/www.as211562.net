@@ -41,10 +41,6 @@ sections:
       this mainly exists for educational purposes as i navigate the intricacies
       of advanced network topologies.
     actions:
-      - type: Button
-        label: Abuse
-        url: /abuse
-        style: primary
       - label: PeeringDB
         altText: ''
         url: /peeringdb
