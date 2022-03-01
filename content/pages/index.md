@@ -97,7 +97,7 @@ sections:
         type: Button
       - label: ARIN Whois
         altText: ''
-        url: /
+        url: 'https://search.arin.net/rdap/?query=AA-2909'
         showIcon: false
         icon: arrowRight
         iconPosition: right
