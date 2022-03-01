@@ -46,10 +46,6 @@ sections:
               willing to peer through a mutual exchange or through a tunnel
               (vxlan preferred).
 
-
-              <!---->
-
-
               *   tor01 is located with the upstream, [GoCodeIt
               ](https://bgp.he.net/AS62513)hosted on the cloud provider,
               [Xenyth](https://xenyth.net/?affid=29) at equinix tr2. tor02 is an
@@ -66,10 +62,6 @@ sections:
               *   i do have a selective policy for who is able to peer with my
               new jersey/new york pop due to the fact that i run a production
               connection off of this.
-
-
-              <!---->
-
 
               *   my new jersey pop obtains transit over a gre tunnel to
               upstream Global Secure Layer, also featuring a backup link through
@@ -137,8 +129,6 @@ sections:
               *   my mci01 peering router is located with the upstream,
               [Fosshost](https://fosshost.org/). my mci02 peering router is
               located with the upstream, Misaka Network.
-
-
 
             actions: []
     styles:
