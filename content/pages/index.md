@@ -41,10 +41,6 @@ sections:
       this mainly exists for educational purposes as i navigate the intricacies
       of advanced network topologies.
     actions:
-      - type: Button
-        label: Abuse
-        url: /abuse
-        style: primary
       - label: PeeringDB
         altText: ''
         url: /peeringdb
@@ -93,6 +89,15 @@ sections:
       - label: IPinfo
         altText: ''
         url: 'https://ipinfo.io/AS211562'
+        showIcon: false
+        icon: arrowRight
+        iconPosition: right
+        style: primary
+        elementId: ''
+        type: Button
+      - label: ARIN Whois
+        altText: ''
+        url: 'https://search.arin.net/rdap/?query=AA-2909'
         showIcon: false
         icon: arrowRight
         iconPosition: right
