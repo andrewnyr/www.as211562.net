@@ -33,26 +33,34 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
-              AS211562 is a small educational network operated by Andrew
-              Asciutto.
+            text: >+
+              ## i will not tolerate any abuse of any kind and am willing to
+              cooperate with all to fix any perceived abuse. 
 
 
-              ### Law Enforcement
+              a few things that i will need to investigate abuse are:
 
 
-              while i do not tolerate any illegal activities of any kind, i will
-              also ignore any request from any law enforcement agency that does
-              not have jurisdiction in the areas in which i operate. to contact
-              me, please reach out through my contact form.
+              *   time and date of incindent
 
 
-              ### Non-Law Enforcement
+              *   ip address abuse came from
 
 
-              i will not tolerate any abuse of any kind and am willing to
-              cooperate with all to fix any perceived abuse. please reach out
-              with the contact form.
+              *   what type of abuse
+
+
+              *   organization affected
+
+
+
+
+
+
+              ### to report abuse please reach out with the [contact
+              form](https://www.andrewnet.net/contact-me/). i will do my best to
+              respond within 24 hours.
+
             actions: []
           - actions:
               - type: Link
