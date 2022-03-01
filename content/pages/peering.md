@@ -76,30 +76,20 @@ sections:
               willing to peer on [Rapid-IX ](https://rapidix.net/)or through a
               tunnel (vxlan preferred).
 
-
-              <!---->
-
-
               *   my london peering router is located with the upstream,[
               Inferno Communications](https://infernocomms.com/), who [i love
               very much](https://www.as211562.net/inferno/).
 
 
-              ### \<!---->\<!---->&#xA;&#xA;Netherlands
+
+              ### Netherlands
 
 
               *   i have a very open peering policy for my netherlands pop and
               am willing to peer through a tunnel (vxlan preferred).
 
-
-              <!---->
-
-
               *   my netherlands peering router is located with the upstream,
               [Bakker IT](https://bgp.he.net/AS44103).
-
-
-              <!---->
 
 
               ### Fremont
@@ -107,10 +97,6 @@ sections:
 
               *   i have a very open peering policy for my fremont pop and am
               willing to peer through a tunnel (vxlan preferred).
-
-
-              <!---->
-
 
               *   my fremont peering router is located with the upstream, [Eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
@@ -121,10 +107,6 @@ sections:
 
               *   i have a very open peering policy for my kansas city pop and
               am willing to peer through a tunnel (vxlan preferred).
-
-
-              <!---->
-
 
               *   my mci01 peering router is located with the upstream,
               [Fosshost](https://fosshost.org/). my mci02 peering router is
