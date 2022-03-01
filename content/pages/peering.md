@@ -112,7 +112,8 @@ sections:
 
               *   my mci01 peering router is located with the upstream,
               [Fosshost](https://fosshost.org/). my mci02 peering router is
-              located with the upstream, Misaka Network.
+              located with the upstream, [Misaka
+              Network](https://www.misaka.io/).
 
             actions: []
     styles:
