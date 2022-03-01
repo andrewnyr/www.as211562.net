@@ -68,6 +68,9 @@ sections:
               [GoCodeIt ](https://xenyth.net/?affid=29)and connections to my
               other pops.
 
+              *   you can view a diagram of the network layout of this pop
+              [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
+
 
               ### London
 
@@ -79,7 +82,6 @@ sections:
               *   my london peering router is located with the upstream,[
               Inferno Communications](https://infernocomms.com/), who [i love
               very much](https://www.as211562.net/inferno/).
-
 
 
               ### Netherlands
