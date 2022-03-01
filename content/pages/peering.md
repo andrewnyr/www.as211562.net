@@ -64,9 +64,9 @@ sections:
               connection off of this.
 
               *   my new jersey pop obtains transit over a gre tunnel to
-              upstream Global Secure Layer, also featuring a backup link through
-              [GoCodeIt ](https://xenyth.net/?affid=29)and connections to my
-              other pops.
+              upstream [Global Secure Layer](https://globalsecurelayer.com/),
+              also featuring a backup link through [GoCodeIt
+              ](https://xenyth.net/?affid=29)and connections to my other pops.
 
               *   you can view a diagram of the network layout of this pop
               [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
