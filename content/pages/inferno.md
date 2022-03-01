@@ -101,7 +101,7 @@ sections:
   - type: MediaGallerySection
     colors: colors-c
     title: ''
-    subtitle: 'Trusted by: joe from pydiscord (need i say more??)'
+    subtitle: 'trusted by: joe from pydiscord (need i say more??)'
     images:
       - type: ImageBlock
         caption: Google Play
