@@ -93,10 +93,8 @@ sections:
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
               from netherlands.
 
-
               *   i have a very open peering policy for my netherlands pop and
               am willing to peer through a tunnel (vxlan preferred).
-
 
               *   my netherlands peering router is located with the upstream,
               [Bakker IT](https://bgp.he.net/AS44103).
@@ -108,10 +106,8 @@ sections:
               *   you can expect 2602:fc26:2::/48 to be announced to the dfz
               from fremont. 
 
-
               *   i have a very open peering policy for my fremont pop and am
               willing to peer through a tunnel (vxlan preferred).
-
 
               *   my fremont peering router is located with the upstream, [Eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
@@ -123,10 +119,8 @@ sections:
               *   you can expect 2602:fc26:8::/48 to be announced to the dfz
               from mci01 with 2602:fc26:12::/48 from mci02. 
 
-
               *   i have a very open peering policy for my kansas city pop and
               am willing to peer through a tunnel (vxlan preferred).
-
 
               *   my mci01 peering router is located with the upstream,
               [Fosshost](https://fosshost.org/). my mci02 peering router is
