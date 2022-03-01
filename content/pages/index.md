@@ -95,7 +95,7 @@ sections:
         style: primary
         elementId: ''
         type: Button
-      - label: Learn more
+      - label: ARIN whois
         altText: ''
         url: /
         showIcon: false
