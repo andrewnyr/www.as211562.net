@@ -1,5 +1,5 @@
 ---
-title: Branding Guidelines
+title: branding guidelines
 sections:
   - colors: colors-e
     elementId: ''
