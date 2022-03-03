@@ -408,7 +408,6 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: Let's do this
     actions:
       - type: Button
         label: Try it now
