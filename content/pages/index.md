@@ -222,4 +222,5 @@ sections:
     type: FeatureHighlightSection
 socialImage: /images/as211562-meta.png
 addTitleSuffix: true
+metaDescription: the official network of andrewnet
 ---
