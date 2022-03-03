@@ -131,7 +131,6 @@ sections:
     type: CtaSection
   - elementId: ''
     colors: colors-c
-    backgroundSize: full
     title: supporters
     text: >
 
