@@ -406,5 +406,5 @@ sections:
         textAlign: center
     type: QuoteSection
 layout: PageLayout
-socialImage: /images/inferno-ad-3.png
+socialImage: /images/as211562-meta.png
 ---
