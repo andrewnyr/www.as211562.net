@@ -131,7 +131,6 @@ sections:
     type: CtaSection
   - elementId: ''
     colors: colors-c
-    backgroundSize: full
     title: supporters
     text: >
 
@@ -154,7 +153,15 @@ sections:
         label: contact
         url: /
         style: primary
-    backgroundImage: null
+    backgroundImage:
+      url: /images/andrewnet-mosaic.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
     styles:
       self:
         height: auto
