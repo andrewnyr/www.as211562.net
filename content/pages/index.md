@@ -154,7 +154,6 @@ sections:
         url: /
         style: primary
     backgroundImage:
-      url: /images/andrewnet-mosaic.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
