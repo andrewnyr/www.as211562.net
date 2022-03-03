@@ -226,6 +226,43 @@ sections:
       actions:
         justifyContent: flex-start
     type: FeatureHighlightSection
+  - elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    actions: []
+    backgroundImage:
+      url: /images/andrewnet-mosaic.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: narrow
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: left
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
 socialImage: /images/as211562-meta.png
 addTitleSuffix: true
 metaDescription: the official network of andrewnet
