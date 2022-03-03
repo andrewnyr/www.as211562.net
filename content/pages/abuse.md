@@ -88,9 +88,8 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
+    text: |2
+       
     actions: []
     backgroundImage: null
     styles:
