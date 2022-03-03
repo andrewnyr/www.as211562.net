@@ -78,11 +78,7 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    actions:
-      - type: Button
-        label: Try it now
-        url: /
-        style: primary
+    actions: []
     backgroundImage: null
     styles:
       self:
