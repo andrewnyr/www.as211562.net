@@ -406,4 +406,5 @@ sections:
         textAlign: center
     type: QuoteSection
 layout: PageLayout
+socialImage: /images/as211562-meta.png
 ---
