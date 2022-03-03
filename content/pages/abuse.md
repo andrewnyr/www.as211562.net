@@ -86,5 +86,5 @@ sections:
         textAlign: left
     type: JobsSection
 layout: PageLayout
-addTitleSuffix: false
+addTitleSuffix: true
 ---
