@@ -39,7 +39,7 @@ sections:
 
 
       this mainly exists for educational purposes as i navigate the intricacies
-      of advanced network topologies
+      of advanced network topologies.
     actions:
       - label: PeeringDB
         altText: ''
