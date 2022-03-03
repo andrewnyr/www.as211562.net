@@ -130,7 +130,7 @@ sections:
         justifyContent: flex-start
     type: CtaSection
   - elementId: ''
-    colors: colors-a
+    colors: colors-f
     title: supporters
     text: >
 
