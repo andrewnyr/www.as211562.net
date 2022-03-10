@@ -3,7 +3,7 @@ title: tools
 sections:
   - colors: colors-e
     elementId: ''
-    title: peering & network information
+    title: tools
     subtitle: ''
     jobLists: []
     styles:
