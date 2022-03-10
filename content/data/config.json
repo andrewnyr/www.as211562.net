@@ -48,9 +48,9 @@
                 "type": "Link"
             },
             {
-                "label": "Looking Glass",
+                "label": "tools",
                 "altText": "",
-                "url": "https://lg.as211562.net/",
+                "url": "/tools",
                 "showIcon": true,
                 "icon": "playCircle",
                 "iconPosition": "right",
