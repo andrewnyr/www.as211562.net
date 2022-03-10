@@ -34,7 +34,7 @@ sections:
         items:
           - type: JobListItem
             text: |+
-              ### here are a few tools that i use to help network
+              ### here are a few tools that i use to network
 
               *   <https://tools.as211562.net>
 
