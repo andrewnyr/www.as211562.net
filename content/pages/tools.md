@@ -8,7 +8,7 @@ title: tools
 sections:
   - type: HeroSection
     colors: colors-a
-    title: 'Love where you work, because work loves you'
+    title: tools
     subtitle: 'One platform, one community.'
     actions:
       - type: Button
