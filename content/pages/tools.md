@@ -36,6 +36,18 @@ sections:
             text: |+
               ### here are a few tools that i use that can also help you network
 
+              *   <https://tools.as211562.net>
+
+              *   <https://loa.as211562.net>
+
+              *   <https://lg.ring.nlnog.net>
+
+              *   <https://bgp.tools>
+
+              *   <https://bgp.he.net>
+
+              *   <https://routing.he.net>
+
             actions: []
     styles:
       self:
