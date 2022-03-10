@@ -1,50 +1,11 @@
 ---
-metaTitle: null
-metaDescription: null
-addTitleSuffix: true
-socialImage: null
-metaTags: []
-title: tools
+title: peering
 sections:
-  - type: MediaGallerySection
-    colors: colors-h
-    title: ''
-    subtitle: Trusted by
-    images:
-      - type: ImageBlock
-        url: /images/apple.svg
-        caption: Apple
-        altText: Apple
-      - type: ImageBlock
-        url: /images/google-play.svg
-        caption: Google Play
-        altText: Google Play
-      - type: ImageBlock
-        url: /images/playstation.svg
-        caption: PlayStation
-        altText: PlayStation
-      - type: ImageBlock
-        url: /images/gatsby.svg
-        caption: Gatsby
-        altText: Gatsby
-      - type: ImageBlock
-        url: /images/xbox.svg
-        caption: Xbox
-        altText: Xbox
-      - type: ImageBlock
-        url: /images/skype.svg
-        caption: Apple
-        altText: Apple
-      - type: ImageBlock
-        url: /images/zcool.svg
-        caption: ZCOOL
-        altText: ZCOOL
-    columns: 7
-    spacing: 3
-    imageSizePx: 240
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
+  - colors: colors-e
+    elementId: ''
+    title: peering & network information
+    subtitle: ''
+    jobLists: []
     styles:
       self:
         height: auto
@@ -56,223 +17,7 @@ sections:
           - mr-0
         padding:
           - pt-12
-          - pb-24
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: FeaturedItemsSection
-    colors: colors-a
-    title: Remote doesn’t mean alone. Here are so great features
-    subtitle: >-
-      These are all excellent features that will provide exactly the things
-      you’re looking for.
-    items:
-      - type: FeaturedItem
-        title: Faster
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          type: ImageBlock
-          url: /images/faster.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-4
-              - pb-6
-              - pl-4
-              - pr-4
-            borderColor: border-dark
-            borderStyle: solid
-            borderWidth: 1
-      - type: FeaturedItem
-        title: Smarter
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          type: ImageBlock
-          url: /images/smarter.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-4
-              - pb-6
-              - pl-4
-              - pr-4
-            borderColor: border-dark
-            borderStyle: solid
-            borderWidth: 1
-      - type: FeaturedItem
-        title: Focused
-        text: >-
-          Learn how top tech companies have learned working remote using our
-          product.
-        featuredImage:
-          type: ImageBlock
-          url: /images/focused.svg
-          altText: Item image
-        styles:
-          self:
-            textAlign: left
-            padding:
-              - pt-4
-              - pb-6
-              - pl-4
-              - pr-4
-            borderColor: border-dark
-            borderStyle: solid
-            borderWidth: 1
-    columns: 3
-    enableHover: false
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-28
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: center
-      subtitle:
-        textAlign: center
-  - type: FeatureHighlightSection
-    colors: colors-a
-    title: 'A great feature, we’re proud of'
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/hero-1.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-36
-          - pb-6
-          - pl-4
-          - pr-4
-        justifyContent: center
-        flexDirection: row
-        alignItems: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: FeatureHighlightSection
-    colors: colors-a
-    title: And a strong value proposition
-    text: >-
-      Share WIP, comment on each other’s work, approve what’s ready to go, ship
-      together
-    actions:
-      - type: Button
-        label: Get Started
-        url: /
-        style: primary
-      - type: Link
-        label: Learn More
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    media:
-      type: ImageBlock
-      url: /images/hero-2.png
-      altText: Hero section image
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-6
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-        flexDirection: row-reverse
-        alignItems: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-      text:
-        textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: FeaturedPostsSection
-    colors: colors-a
-    variant: variant-b
-    title: >-
-      We sometimes write things. You should read it, it might shed some  light
-      on why we’re doing what we’re doing
-    actions:
-      - type: Link
-        label: See all posts
-        url: /blog
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    showDate: true
-    posts:
-      - content/pages/blog/post-four.md
-      - content/pages/blog/post-three.md
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-0
-          - pb-36
+          - pb-12
           - pl-4
           - pr-4
         justifyContent: center
@@ -280,138 +25,172 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-      actions:
-        justifyContent: flex-start
-  - type: FaqSection
-    colors: colors-f
-    title: Need Answers?
+    type: JobsSection
+  - colors: colors-a
+    elementId: ''
     subtitle: ''
-    actions:
-      - type: Link
-        label: See all
-        url: /
-        showIcon: true
-        icon: arrowRight
-        iconPosition: right
-    items:
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
-      - question: How it this different from what we have today?
-        answer: >-
-          At the office, working together is often a distruction, on remote, it
-          could be motivation, At the office, working together is often a
-          distruction, on remote, it could be motivation, At the office, working
-          together is often a distruction, on remote, it could be motivation
+    jobLists:
+      - type: JobList
+        items:
+          - type: JobListItem
+            text: >+
+              ### Toronto
+
+
+              *   you can expect 2602:fc26:6::/48, 2602:fc26:7::/48, and
+              2602:fc26:a::/48 to be announced to the dfz from toronto, with
+              2602:fc26::/48 and 45.41.37.0/24 announced only to private or
+              bilat peers.
+
+              *   i have a very open peering policy for my toronto pop and i am
+              willing to peer through a mutual exchange or through a tunnel
+              (vxlan preferred).
+
+              *   tor01 is located with the upstream, [GoCodeIt
+              ](https://bgp.he.net/AS62513)hosted on the cloud provider,
+              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2. tor02 is an
+              oracle cloud vm with sub-ms latency to tor01.
+
+
+              ### New Jersey
+
+
+              *   you can expect 45.41.37.0/24, 2602:fc26::/48,
+              2602:fc26:1::/48, and 2602:fc26:a::/48 to be announced to the dfz
+              from new jersey.
+
+              *   i do have a selective policy for who is able to peer with my
+              new jersey/new york pop due to the fact that i run a production
+              connection off of this.
+
+              *   my new jersey pop obtains transit over a gre tunnel to
+              upstream [Global Secure Layer](https://globalsecurelayer.com/),
+              also featuring a backup link through [GoCodeIt
+              ](https://xenyth.net/?affid=29)and connections to my other pops.
+
+              *   you can view a diagram of the network layout of this pop
+              [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
+
+
+              ### London
+
+
+              *   you can expect 2602:fc26:14::/48 to be announced to the dfz
+              from london.
+
+              *   i have a very open peering policy for my london pop and am
+              willing to peer on [Rapid-IX ](https://rapidix.net/)or through a
+              tunnel (vxlan preferred).
+
+              *   my london peering router is located with the upstream,[
+              Inferno Communications](https://infernocomms.com/), who [i love
+              very much](https://www.as211562.net/inferno/).
+
+
+              ### Netherlands
+
+
+              *   you can expect 2602:fc26:4::/48 to be announced to the dfz
+              from netherlands.
+
+
+              *   i have a very open peering policy for my netherlands pop and
+              am willing to peer through a tunnel (vxlan preferred).
+
+
+              *   my netherlands peering router is located with the upstream,
+              [Bakker IT](https://bgp.he.net/AS44103).
+
+
+              ### Fremont
+
+
+              *   you can expect 2602:fc26:2::/48 to be announced to the dfz
+              from fremont. 
+
+
+              *   i have a very open peering policy for my fremont pop and am
+              willing to peer through a tunnel (vxlan preferred).
+
+
+              *   my fremont peering router is located with the upstream, [Eric
+              ](https://ericz.me/)at hurricane electric's fmt2 data center.
+
+
+              ### Kansas City
+
+
+              *   you can expect 2602:fc26:8::/48 to be announced to the dfz
+              from mci01 with 2602:fc26:12::/48 from mci02. 
+
+
+              *   i have a very open peering policy for my kansas city pop and
+              am willing to peer through a tunnel (vxlan preferred).
+
+
+              *   my mci01 peering router is located with the upstream,
+              [Fosshost](https://fosshost.org/). my mci02 peering router is
+              located with the upstream, [Misaka
+              Network](https://www.misaka.io/).
+
+            actions: []
     styles:
       self:
         height: auto
-        width: wide
+        width: full
         margin:
           - mt-0
           - mb-0
           - ml-0
           - mr-0
         padding:
-          - pt-20
-          - pb-36
+          - pt-12
+          - pb-12
           - pl-4
-          - pr-4
+          - pr-0
         justifyContent: center
       title:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: TestimonialsSection
-    colors: colors-a
-    variant: variant-a
-    title: ''
-    subtitle: ''
-    testimonials:
-      - quote: >-
-          ## Such a great experience to be using this product. It really helped
-          with what I needed help with.
-        name: Carla Rogers
-        title: Happy customer
-        image:
-          type: ImageBlock
-          url: /images/carla.jpg
-          altText: Photo of Carla Rogers
-    styles:
-      self:
-        height: auto
-        width: wide
-        margin:
-          - mt-0
-          - mb-0
-          - ml-0
-          - mr-0
-        padding:
-          - pt-28
-          - pb-36
-          - pl-4
-          - pr-4
-        justifyContent: center
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: ContactSection
+    type: JobsSection
+  - elementId: ''
     colors: colors-f
-    backgroundSize: inset
-    title: Get early access
-    text: >-
-      Sign up your team today to be the first to try out our new product to
-      increase your team's productivity.
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      action: /.netlify/functions/submission_created
-      destination: ''
-      fields:
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: 'true'
-          width: full
-      submitLabel: Sign Up
+    backgroundSize: full
+    actions: []
+    backgroundImage:
+      url: /images/andrewnet-mosaic.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
       styles:
-        submitLabel:
-          textAlign: center
-    media: null
+        self:
+          opacity: 100
+      type: ImageBlock
     styles:
       self:
         height: auto
-        width: wide
+        width: narrow
         margin:
-          - mt-24
+          - mt-0
           - mb-0
-          - ml-4
-          - mr-4
+          - ml-0
+          - mr-0
         padding:
           - pt-24
           - pb-24
-          - pl-12
-          - pr-12
+          - pl-4
+          - pr-4
         alignItems: center
         justifyContent: center
         flexDirection: row
-        borderRadius: xx-large
-        boxShadow: xx-large
       title:
-        textAlign: center
+        textAlign: left
       text:
-        textAlign: center
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    type: CtaSection
 layout: PageLayout
+metaDescription: peering is how the internet works! peer with me today!
 ---
