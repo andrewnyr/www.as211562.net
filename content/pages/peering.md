@@ -72,7 +72,6 @@ sections:
 
             actions:
               - type: Link
-                label: Apply
                 url: /
                 showIcon: true
                 icon: arrowRight
