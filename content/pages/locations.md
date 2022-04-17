@@ -1,9 +1,9 @@
 ---
-title: peering
+title: pops
 sections:
   - colors: colors-e
     elementId: ''
-    title: peering & network information
+    title: points of presence
     subtitle: ''
     jobLists: []
     styles:
@@ -186,5 +186,5 @@ sections:
         justifyContent: flex-start
     type: CtaSection
 layout: PageLayout
-metaDescription: peering is how the internet works! peer with me today!
+metaDescription: see our locations and network policies.
 ---
