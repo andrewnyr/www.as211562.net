@@ -70,12 +70,7 @@ sections:
               *   Not point a default route at andrewnet or use static routes
               that were not authorized in writing.
 
-            actions:
-              - type: Link
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
+            actions: []
       - type: JobList
         title: Engineering
         items:
