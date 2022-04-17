@@ -40,7 +40,9 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            title: Director of product management
+            title: >-
+              as211562 has an open peering policy with a few simple
+              requirements.
             location: San Francisco
             text: >-
               Lorem Ipsum is simply dummy text of the printing and typesetting
