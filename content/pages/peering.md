@@ -35,7 +35,6 @@ sections:
   - type: JobsSection
     colors: colors-a
     elementId: ''
-    title: Open roles
     subtitle: ''
     jobLists:
       - type: JobList
