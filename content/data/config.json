@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "locations",
-                "url": "/peering",
+                "url": "/pops",
                 "altText": "",
                 "showIcon": true,
                 "icon": "arrowRightCircle"
