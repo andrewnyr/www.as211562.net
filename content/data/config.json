@@ -121,7 +121,7 @@
             },
             {
                 "type": "Link",
-                "label": "Learn more",
+                "label": "peering",
                 "altText": "",
                 "url": "/",
                 "showIcon": false,
