@@ -16,10 +16,20 @@
             {
                 "type": "Link",
                 "label": "locations",
-                "url": "/pops",
+                "url": "/locations",
                 "altText": "",
                 "showIcon": true,
                 "icon": "arrowRightCircle"
+            },
+            {
+                "type": "Link",
+                "label": "peering",
+                "altText": "",
+                "url": "/peering",
+                "showIcon": true,
+                "icon": "chevronRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
@@ -115,9 +125,19 @@
             },
             {
                 "type": "Link",
-                "label": "Peering",
-                "url": "/peering",
+                "label": "Locations",
+                "url": "/locations",
                 "altText": ""
+            },
+            {
+                "type": "Link",
+                "label": "peering",
+                "altText": "",
+                "url": "/peering",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "elementId": ""
             },
             {
                 "type": "Link",
