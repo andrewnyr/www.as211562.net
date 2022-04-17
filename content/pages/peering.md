@@ -44,11 +44,33 @@ sections:
               as211562 has an open peering policy with a few simple
               requirements.
             location: San Francisco
-            text: >-
-              Lorem Ipsum is simply dummy text of the printing and typesetting
-              industry. Lorem Ipsum has been the industry's standard dummy text
-              ever since the 1500s, when an unknown printer took a galley of
-              type and
+            text: >+
+              ## Technical Requirements
+
+
+              *   A publicly routable and visible unique ASN
+
+
+              *   Network edge router capable of running BGP
+
+
+              *   BGP session authentication as mutually agreed
+
+
+              *   Complete and updated PeeringDB entry and profile
+
+
+              *   24/7 NOC Contact provided at the time of session establishment
+
+
+              *   Peering partner must adhere to the technical requirements of
+              each applicable Internet Exchange.
+
+
+              *   When feasible, Meta prefers to have bi-lateral sessions
+              configured across all common Internet Exchanges, with networks we
+              serve traffic to.
+
             actions:
               - type: Link
                 label: Apply
