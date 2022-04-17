@@ -116,7 +116,7 @@
             {
                 "type": "Link",
                 "label": "Locations",
-                "url": "/peering",
+                "url": "/locations",
                 "altText": ""
             },
             {
