@@ -27,7 +27,7 @@
                 "altText": "",
                 "url": "/peering",
                 "showIcon": true,
-                "icon": "apple",
+                "icon": "chevronRight",
                 "iconPosition": "right",
                 "elementId": ""
             },
