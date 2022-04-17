@@ -72,7 +72,6 @@ sections:
 
             actions: []
       - type: JobList
-        title: Engineering
         items:
           - type: JobListItem
             title: Head of engineering
