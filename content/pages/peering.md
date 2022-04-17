@@ -44,7 +44,7 @@ sections:
               as211562 has an open peering policy with a few simple
               requirements.
             text: >+
-              ## Technical Requirements
+              ##### Requirements
 
 
               *   A publicly routable and visible unique ASN
