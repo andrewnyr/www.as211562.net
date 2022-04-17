@@ -25,7 +25,7 @@
                 "type": "Link",
                 "label": "peering",
                 "altText": "",
-                "url": "/",
+                "url": "/peering",
                 "showIcon": false,
                 "icon": "arrowRight",
                 "iconPosition": "right",
