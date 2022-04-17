@@ -16,7 +16,7 @@
             {
                 "type": "Link",
                 "label": "locations",
-                "url": "/pops",
+                "url": "/locations",
                 "altText": "",
                 "showIcon": true,
                 "icon": "arrowRightCircle"
