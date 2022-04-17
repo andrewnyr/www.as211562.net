@@ -8,7 +8,7 @@ metaTags: []
 title: peering
 sections:
   - type: JobsSection
-    colors: colors-a
+    colors: colors-e
     elementId: ''
     title: peering policy
     subtitle: ''
