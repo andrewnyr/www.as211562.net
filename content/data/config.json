@@ -115,7 +115,7 @@
             },
             {
                 "type": "Link",
-                "label": "Peering",
+                "label": "Locations",
                 "url": "/peering",
                 "altText": ""
             },
