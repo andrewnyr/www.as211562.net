@@ -1,5 +1,5 @@
 ---
-title: peering
+title: pops
 sections:
   - colors: colors-e
     elementId: ''
