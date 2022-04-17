@@ -50,25 +50,25 @@ sections:
               *   A publicly routable and visible unique ASN
 
 
-              *   Network edge router capable of running BGP
+              *   Network router capable of running BGP
 
 
-              *   BGP session authentication as mutually agreed
+              *   Complete, updated, and accurate PeeringDB profile
 
 
-              *   Complete and updated PeeringDB entry and profile
-
-
-              *   24/7 NOC Contact provided at the time of session establishment
+              *   NOC Contact provided at the time of session establishment
 
 
               *   Peering partner must adhere to the technical requirements of
               each applicable Internet Exchange.
 
 
-              *   When feasible, Meta prefers to have bi-lateral sessions
-              configured across all common Internet Exchanges, with networks we
-              serve traffic to.
+              *   Only send traffic destined for prefixes announced by andrewnet
+              or downstreams of andrewnet.
+
+
+              *   Not point a default route at andrewnet or use static routes
+              that were not authorized in writing.
 
             actions:
               - type: Link
