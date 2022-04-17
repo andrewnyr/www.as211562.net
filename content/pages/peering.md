@@ -10,7 +10,7 @@ sections:
   - type: JobsSection
     colors: colors-a
     elementId: ''
-    title: Open roles
+    title: peering policy
     subtitle: ''
     jobLists: []
     styles:
