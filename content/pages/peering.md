@@ -43,7 +43,6 @@ sections:
             title: >-
               as211562 has an open peering policy with a few simple
               requirements.
-            location: San Francisco
             text: >+
               ## Technical Requirements
 
