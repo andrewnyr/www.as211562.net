@@ -15,7 +15,7 @@
             },
             {
                 "type": "Link",
-                "label": "POPs",
+                "label": "POP",
                 "url": "/peering",
                 "altText": "",
                 "showIcon": true,
