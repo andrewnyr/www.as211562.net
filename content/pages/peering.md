@@ -41,7 +41,7 @@ sections:
         items:
           - type: JobListItem
             title: >-
-              andrewnet (as211562) has an open peering policy with a few simple
+              andrewnet (as1003) has an open peering policy with a few simple
               requirements.
             text: >+
               ##### Requirements
