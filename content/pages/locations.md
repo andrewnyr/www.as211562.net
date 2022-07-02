@@ -106,7 +106,7 @@ sections:
 
 
               *   you can expect 2602:fc26:2::/48 to be announced to the dfz
-              from fremont. 
+              from fremont.
 
 
               *   i have a very open peering policy for my fremont pop and am
@@ -121,17 +121,11 @@ sections:
 
 
               *   you can expect 2602:fc26:8::/48 to be announced to the dfz
-              from mci01 with 2602:fc26:12::/48 from mci02. 
+              from mci01 with 2602:fc26:12::/48 from mci02.
 
 
               *   i have a very open peering policy for my kansas city pop and
-              am willing to peer through a tunnel (vxlan preferred).
-
-
-              *   my mci01 peering router is located with the upstream,
-              [Fosshost](https://fosshost.org/). my mci02 peering router is
-              located with the upstream, [Misaka
-              Network](https://www.misaka.io/).
+              am willing to peer through a tunnel (vxlan preferred) or kcix.
 
             actions: []
     styles:
