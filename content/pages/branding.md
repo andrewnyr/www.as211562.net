@@ -45,7 +45,9 @@ sections:
               below you can find a vector copy of our logo.
 
 
-              ![](/images/edited-as211562-logo.svg)
+              ![](/images/as1003%20logo.svg)
+
+
 
 
               #### website styles
