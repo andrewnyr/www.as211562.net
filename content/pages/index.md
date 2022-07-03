@@ -52,7 +52,7 @@ sections:
         type: Button
       - label: BGP Tools
         altText: ''
-        url: /tools
+        url: /bgpdottools
         showIcon: false
         icon: arrowRight
         iconPosition: right
