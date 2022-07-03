@@ -199,7 +199,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
+      url: 'https://bgp.he.net/graphs/as1003-ipv6.svg'
       altText: network map
     styles:
       self:
