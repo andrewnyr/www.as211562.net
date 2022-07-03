@@ -52,7 +52,7 @@ sections:
         type: Button
       - label: BGP Tools
         altText: ''
-        url: /tools
+        url: /bgpdottools
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -79,7 +79,7 @@ sections:
         type: Button
       - label: IRR Explorer
         altText: ''
-        url: 'https://irrexplorer.nlnog.net/asn/AS211562'
+        url: 'https://irrexplorer.nlnog.net/asn/AS1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -88,7 +88,7 @@ sections:
         type: Button
       - label: IPinfo
         altText: ''
-        url: 'https://ipinfo.io/AS211562'
+        url: 'https://ipinfo.io/AS1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -199,7 +199,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: 'https://bgp.he.net/graphs/as211562-ipv6.svg'
+      url: 'https://bgp.he.net/graphs/as1003-ipv6.svg'
       altText: network map
     styles:
       self:
