@@ -45,13 +45,13 @@ sections:
               below you can find a vector copy of our logo.
 
 
-              ![](/images/edited-as211562-logo.svg)
+              ![](/images/as1003%20logo.svg)
 
 
               #### website styles
 
 
-              here at as211562 and andrewnet i like to use lowercase text. it is
+              here at as1003 and andrewnet i like to use lowercase text. it is
               by design that i do not capitalize in my logo(s) and throughout
               the website.
             actions: []
