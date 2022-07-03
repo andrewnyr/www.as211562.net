@@ -88,7 +88,7 @@ sections:
         type: Button
       - label: IPinfo
         altText: ''
-        url: 'https://ipinfo.io/AS211562'
+        url: 'https://ipinfo.io/AS1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
