@@ -264,7 +264,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-socialImage: /images/as211562-meta.png
 addTitleSuffix: true
 metaDescription: the official network of andrewnet
 ---

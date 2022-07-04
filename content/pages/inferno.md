@@ -443,5 +443,5 @@ sections:
         justifyContent: flex-start
     type: CtaSection
 layout: PageLayout
-socialImage: /images/as211562-meta.png
+addTitleSuffix: true
 ---

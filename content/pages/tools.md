@@ -108,4 +108,5 @@ sections:
     type: CtaSection
 layout: PageLayout
 metaDescription: peering is how the internet works! peer with me today!
+addTitleSuffix: true
 ---
