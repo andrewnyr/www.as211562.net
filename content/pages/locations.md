@@ -34,6 +34,14 @@ sections:
         items:
           - type: JobListItem
             text: >+
+              ### Kansas City
+
+
+              * kansas city is my main peering pop with peers able to connect
+              with me over KCIX, STLIX, HOUIX, with more being added in the
+              future.
+
+
               ### Toronto
 
 
@@ -103,24 +111,17 @@ sections:
               ### Fremont
 
 
-
-
               *   i have a very open peering policy for my fremont pop and am
               willing to peer through a tunnel (vxlan preferred).
 
               *   my fremont peering router is located with the upstream, [Eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
 
-
-              ### Kansas City
-
-
-
             actions: []
     styles:
       self:
         height: auto
-        width: full
+        width: wide
         margin:
           - mt-0
           - mb-0
