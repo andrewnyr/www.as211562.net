@@ -167,7 +167,7 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "/",
+                "url": "/twitter",
                 "icon": "twitter",
                 "style": "primary"
             },
