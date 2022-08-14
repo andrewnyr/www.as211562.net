@@ -152,7 +152,7 @@ sections:
     actions:
       - type: Button
         label: contact
-        url: 'https://www.andrewnet.net/contact-me/'
+        url: 'https://www.as1003.net/contact/'
         style: primary
     backgroundImage:
       altText: altText of the image
