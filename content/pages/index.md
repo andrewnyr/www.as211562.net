@@ -190,7 +190,7 @@ sections:
     colors: colors-b
     backgroundSize: full
     title: my network
-    subtitle: thanks to bgp.he.net
+    subtitle: illustrated by bgp.he.net
     badge:
       elementId: ''
       styles:
