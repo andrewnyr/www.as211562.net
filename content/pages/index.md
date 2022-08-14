@@ -148,7 +148,7 @@ sections:
       andrewnet is a small network operated by a broke college student. if you
       would like to support me in my goals by hosting a node, providing a
       tunnel, or allocating a prefix, please [contact
-      me](https://www.as211562.net/contact/).
+      me](https://www.as1003.net/contact/).
     actions:
       - type: Button
         label: contact
