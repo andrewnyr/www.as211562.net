@@ -32,7 +32,7 @@ sections:
   - type: CtaSection
     elementId: ''
     colors: colors-f
-    backgroundSize: full
+    backgroundSize: inset
     title: welcome to the homepage of as1003
     actions: []
     backgroundImage:
