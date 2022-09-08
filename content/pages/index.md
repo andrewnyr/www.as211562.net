@@ -2,11 +2,20 @@
 title: home
 layout: PageLayout
 sections:
-  - elementId: ''
-    colors: colors-e
-    text: |+
-      ## welcome to the homepage of as1003
-
+  - type: CtaSection
+    elementId: ''
+    colors: colors-f
+    title: welcome to the homepage of as1003
+    actions: []
+    backgroundImage:
+      type: ImageBlock
+      url: /images/grad.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
     styles:
       self:
         height: auto
@@ -18,17 +27,19 @@ sections:
           - mr-0
         padding:
           - pt-24
-          - pb-16
+          - pb-24
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
         textAlign: center
-      subtitle:
-        textAlign: center
       text:
-        textAlign: center
-    type: TextSection
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    backgroundSize: full
   - elementId: ''
     colors: colors-b
     backgroundSize: full
