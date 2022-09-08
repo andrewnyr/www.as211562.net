@@ -54,7 +54,7 @@ sections:
     actions:
       - label: PeeringDB
         altText: ''
-        url: /peeringdb
+        url: 'https://www.peeringdb.com/asn/1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
