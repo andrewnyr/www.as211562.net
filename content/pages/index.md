@@ -42,7 +42,15 @@ sections:
         label: Try it now
         url: /
         style: primary
-    backgroundImage: null
+    backgroundImage:
+      type: ImageBlock
+      url: 'https://assets.stackbit.com/components/images/default/default-image.png'
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
     styles:
       self:
         height: auto
