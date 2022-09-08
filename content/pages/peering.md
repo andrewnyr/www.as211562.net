@@ -7,6 +7,44 @@ socialImage: null
 metaTags: []
 title: peering
 sections:
+  - type: CtaSection
+    elementId: ''
+    colors: colors-f
+    title: welcome to the homepage of as1003
+    actions: []
+    backgroundImage:
+      type: ImageBlock
+      url: /images/grad.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: center
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
+    backgroundSize: full
   - type: JobsSection
     colors: colors-e
     elementId: ''
