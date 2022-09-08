@@ -63,7 +63,7 @@ sections:
         type: Button
       - label: BGP Tools
         altText: ''
-        url: /bgpdottools
+        url: 'https://bgp.tools/as/1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
