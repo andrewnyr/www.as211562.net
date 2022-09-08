@@ -47,7 +47,7 @@ sections:
               *   the ip address the abuse came from
 
 
-              *   what type of abuse
+              *   what type of abuse (brute force, botnet, etc)
 
 
               *   organization affected
