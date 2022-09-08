@@ -54,7 +54,7 @@ sections:
     actions:
       - label: PeeringDB
         altText: ''
-        url: /peeringdb
+        url: 'https://www.peeringdb.com/asn/1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -63,7 +63,7 @@ sections:
         type: Button
       - label: BGP Tools
         altText: ''
-        url: /bgpdottools
+        url: 'https://bgp.tools/as/1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -72,7 +72,7 @@ sections:
         type: Button
       - label: BGP.HE.NET
         altText: ''
-        url: /hurricane
+        url: 'https://bgp.he.net/AS1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
@@ -81,7 +81,7 @@ sections:
         type: Button
       - label: QRATOR
         altText: ''
-        url: /qrator
+        url: 'https://radar.qrator.net/as1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
