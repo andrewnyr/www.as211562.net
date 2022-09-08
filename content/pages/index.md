@@ -34,9 +34,6 @@ sections:
     colors: colors-f
     backgroundSize: full
     title: welcome to the homepage of as1003
-    text: >-
-      The Stackbit theme is flexible and scalable to every need. It can manage
-      any layout and any screen.
     actions: []
     backgroundImage:
       type: ImageBlock
