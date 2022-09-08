@@ -72,7 +72,7 @@ sections:
         type: Button
       - label: BGP.HE.NET
         altText: ''
-        url: /hurricane
+        url: 'https://bgp.he.net/AS1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
