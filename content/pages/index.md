@@ -66,6 +66,7 @@ sections:
         textAlign: left
       actions:
         justifyContent: flex-start
+    backgroundSize: full
   - elementId: ''
     colors: colors-b
     backgroundSize: full
