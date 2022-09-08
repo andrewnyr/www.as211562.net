@@ -81,7 +81,7 @@ sections:
         type: Button
       - label: QRATOR
         altText: ''
-        url: /qrator
+        url: 'https://radar.qrator.net/as1003'
         showIcon: false
         icon: arrowRight
         iconPosition: right
