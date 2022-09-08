@@ -36,7 +36,7 @@ sections:
     actions: []
     backgroundImage:
       type: ImageBlock
-      url: /images/grad1.svg
+      url: /images/grad.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
