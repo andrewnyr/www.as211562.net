@@ -1,7 +1,7 @@
 ---
 title: pops
 sections:
-    - type: CtaSection
+   - type: CtaSection
     elementId: ''
     colors: colors-f
     title: welcome to the homepage of as1003
