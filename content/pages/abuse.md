@@ -35,7 +35,7 @@ sections:
         justifyContent: center
         flexDirection: row
       title:
-        textAlign: center
+        textAlign: left
       text:
         textAlign: left
       actions:
