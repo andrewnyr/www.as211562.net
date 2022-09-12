@@ -5,7 +5,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: abuse
+    title: branding guidelines
     text: null
     actions: []
     backgroundImage:
