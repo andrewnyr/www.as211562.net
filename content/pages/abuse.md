@@ -1,6 +1,45 @@
 ---
 title: abuse
 sections:
+  - type: CtaSection
+    elementId: ''
+    colors: colors-f
+    backgroundSize: full
+    title: welcome to the homepage of as1003
+    text: null
+    actions: []
+    backgroundImage:
+      url: /images/grad.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
+    styles:
+      self:
+        height: auto
+        width: wide
+        margin:
+          - mt-0
+          - mb-0
+          - ml-0
+          - mr-0
+        padding:
+          - pt-24
+          - pb-24
+          - pl-4
+          - pr-4
+        alignItems: center
+        justifyContent: center
+        flexDirection: row
+      title:
+        textAlign: center
+      text:
+        textAlign: left
+      actions:
+        justifyContent: flex-start
   - colors: colors-e
     elementId: ''
     title: abuse
