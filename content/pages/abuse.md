@@ -1,11 +1,22 @@
 ---
 title: abuse
 sections:
-  - colors: colors-e
+  - type: CtaSection
     elementId: ''
+    colors: colors-f
+    backgroundSize: full
     title: abuse
-    subtitle: ''
-    jobLists: []
+    text: null
+    actions: []
+    backgroundImage:
+      url: /images/grad.svg
+      altText: altText of the image
+      caption: Caption of the image
+      elementId: ''
+      styles:
+        self:
+          opacity: 100
+      type: ImageBlock
     styles:
       self:
         height: auto
@@ -20,12 +31,15 @@ sections:
           - pb-12
           - pl-4
           - pr-4
+        alignItems: center
         justifyContent: center
+        flexDirection: row
       title:
         textAlign: left
-      subtitle:
+      text:
         textAlign: left
-    type: JobsSection
+      actions:
+        justifyContent: flex-start
   - colors: colors-a
     elementId: ''
     subtitle: ''
