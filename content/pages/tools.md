@@ -50,9 +50,9 @@ sections:
             text: |+
               ### here are a few tools that i use to network
 
-              *   <https://tools.as211562.net>
+              *   [https://tools.as1003.net](https://tools.1003.net)
 
-              *   <https://loa.as211562.net>
+              *   <https://loa.as1003.net>
 
               *   <https://lg.ring.nlnog.net>
 
