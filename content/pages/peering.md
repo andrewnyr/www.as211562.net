@@ -58,7 +58,7 @@ sections:
               andrewnet (as1003) has an open peering policy with a few simple
               requirements.
             text: >+
-              ##### Requirements
+              ##### requirements
 
 
               *   A publicly routable and visible unique ASN
@@ -83,6 +83,23 @@ sections:
 
               *   Not point a default route at andrewnet or use static routes
               that were not authorized in writing.
+
+
+              ##### additionally, we may:
+
+
+              *   alter our peering policy at any time
+
+
+              *   accept or decline a peering request at any time for any reason
+
+
+              *   withdraw prefixes from sessions without prior notice
+
+
+              *   terminate any peering at any time without prior notice
+
+
 
             actions: []
     styles:
