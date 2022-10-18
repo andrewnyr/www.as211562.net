@@ -91,7 +91,7 @@ sections:
               *   change our peering policy at any time
 
 
-              *   approve or d eny a peering request at any time for any reason
+              *   approve or deny a peering request at any time for any reason
 
 
               *   withdraw prefixes from sessions without prior notice
