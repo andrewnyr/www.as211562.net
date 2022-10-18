@@ -58,31 +58,46 @@ sections:
               andrewnet (as1003) has an open peering policy with a few simple
               requirements.
             text: >+
-              ##### Requirements
+              ##### requirements
 
 
-              *   A publicly routable and visible unique ASN
+              *   a publicly routable and visible unique asn
 
 
-              *   Network router capable of running BGP
+              *   network router capable of running bgp
 
 
-              *   Complete, updated, and accurate PeeringDB profile
+              *   complete, updated, and accurate peeringdb profile
 
 
-              *   NOC Contact provided at the time of session establishment
+              *   noc contact provided at the time of session establishment
 
 
-              *   Peering partner must adhere to the technical requirements of
-              each applicable Internet Exchange.
+              *   peering partner must adhere to the technical requirements of
+              each applicable internet exchange
 
 
-              *   Only send traffic destined for prefixes announced by andrewnet
-              or downstreams of andrewnet.
+              *   only send traffic destined for prefixes announced by andrewnet
+              or downstreams of andrewnet
 
 
-              *   Not point a default route at andrewnet or use static routes
-              that were not authorized in writing.
+              *   not point a default route at andrewnet or use static routes
+              that were not authorized in writing
+
+
+              ##### additionally, we may:
+
+
+              *   change our peering policy at any time
+
+
+              *   approve or deny a peering request at any time for any reason
+
+
+              *   withdraw prefixes from sessions without prior notice
+
+
+              *   terminate any peering at any time without prior notice
 
             actions: []
     styles:
