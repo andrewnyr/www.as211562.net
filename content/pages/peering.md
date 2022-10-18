@@ -88,7 +88,7 @@ sections:
               ##### additionally, we may:
 
 
-              *   c hange our peering policy at any time
+              *   change our peering policy at any time
 
 
               *   approve or d eny a peering request at any time for any reason
