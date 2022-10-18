@@ -88,18 +88,16 @@ sections:
               ##### additionally, we may:
 
 
-              *   alter our peering policy at any time
+              *   c hange our peering policy at any time
 
 
-              *   accept or decline a peering request at any time for any reason
+              *   approve or d eny a peering request at any time for any reason
 
 
               *   withdraw prefixes from sessions without prior notice
 
 
               *   terminate any peering at any time without prior notice
-
-
 
             actions: []
     styles:
