@@ -50,6 +50,8 @@ sections:
             text: |+
               ### here are a few tools that i use to network
 
+              *   <https://mci.lg.as1003.net>
+
               *   <https://tools.as1003.net>
 
               *   <https://loa.as1003.net>
