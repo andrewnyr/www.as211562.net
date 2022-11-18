@@ -48,7 +48,7 @@ sections:
         items:
           - type: JobListItem
             text: |+
-              ### looking glasses
+              ### looking glasses:
 
               *   <https://mci.lg.as1003.net>
 
@@ -56,7 +56,7 @@ sections:
 
               *   [https://bgp.tools/lg/1003](https://bgp.tools/lg/1003#bgp)
 
-              ### here are a few tools that i use to network
+              ### here are a few tools that i use to network:
 
               *   <https://tools.as1003.net>
 
