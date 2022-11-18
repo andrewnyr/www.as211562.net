@@ -48,9 +48,15 @@ sections:
         items:
           - type: JobListItem
             text: |+
-              ### here are a few tools that i use to network
+              ### looking glasses
 
               *   <https://mci.lg.as1003.net>
+
+              *   <https://nyc.lg.as1003.net>
+
+              *   [https://bgp.tools/lg/1003](https://bgp.tools/lg/1003#bgp)
+
+              ### here are a few tools that i use to network
 
               *   <https://tools.as1003.net>
 
