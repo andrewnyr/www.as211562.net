@@ -9,7 +9,8 @@ sections:
     actions: []
     backgroundImage:
       type: ImageBlock
-      url: https://www.as1003.net/cdn-cgi/imagedelivery/Od3CAgrZwKVRQkzf5-jlKQ/e2b7b541-e5a2-45cc-bd19-3a1bc831b600/public
+      url: >-
+        https://www.as1003.net/cdn-cgi/imagedelivery/Od3CAgrZwKVRQkzf5-jlKQ/e2b7b541-e5a2-45cc-bd19-3a1bc831b600/public
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
@@ -51,6 +52,10 @@ sections:
 
       this mainly exists for educational purposes as i navigate the intricacies
       of advanced network topologies.
+
+
+      andrewnet production is based on as1003, while andrewnet experimental is
+      centered around as211562.
     actions:
       - label: PeeringDB
         altText: ''
