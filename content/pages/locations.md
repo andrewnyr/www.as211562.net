@@ -51,7 +51,7 @@ sections:
               ### Kansas City
 
 
-              * kansas city is my main peering pop with peers able to connect
+              *   kansas city is my main peering pop with peers able to connect
               with me over KCIX, STLIX, HOUIX, with more being added in the
               future.
 
@@ -92,21 +92,6 @@ sections:
 
               *   you can view a diagram of the network layout of this pop
               [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
-
-
-              ### London
-
-
-              *   you can expect 2602:fc26:14::/48 to be announced to the dfz
-              from london.
-
-              *   i have a very open peering policy for my london pop and am
-              willing to peer on [Rapid-IX ](https://rapidix.net/)or through a
-              tunnel (vxlan preferred).
-
-              *   my london peering router is located with the upstream,[
-              Inferno Communications](https://infernocomms.com/), who [i love
-              very much](https://www.as211562.net/inferno/).
 
 
               ### Netherlands
