@@ -47,7 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
+            text: >+
               ### Kansas City, Missouri
 
 
@@ -70,9 +70,9 @@ sections:
 
               *   tor01 is located with the upstream, [GoCodeIt
               ](https://bgp.he.net/AS62513)hosted on the cloud provider,
-              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2. 
+              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2.
 
-              * tor02 is an oracle cloud vm with sub-ms latency to tor01.
+              *   tor02 is an oracle cloud vm with sub-ms latency to tor01.
 
 
               ### South River, New Jersey
@@ -95,7 +95,7 @@ sections:
               [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
 
 
-              ### Groningen, Netherlands
+              ### Groningen, The Netherlands
 
 
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
@@ -126,6 +126,7 @@ sections:
 
               *   my ashburn peering router is located with the upstream, [Fork
               ](http://forksystems.net/)at an Equinix IAD data center.
+
             actions: []
     styles:
       self:
