@@ -52,8 +52,7 @@ sections:
 
 
               *   kansas city is my main peering pop with peers able to connect
-              with me over KCIX, STLIX, HOUIX, with more being added in the
-              future.
+              with me over KCIX, STLIX, and HOUIX.
 
 
               ### Toronto, Canada
