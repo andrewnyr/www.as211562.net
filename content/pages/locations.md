@@ -47,7 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >+
+            text: >
               ### Kansas City, Missouri
 
 
@@ -70,8 +70,9 @@ sections:
 
               *   tor01 is located with the upstream, [GoCodeIt
               ](https://bgp.he.net/AS62513)hosted on the cloud provider,
-              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2. tor02 is an
-              oracle cloud vm with sub-ms latency to tor01.
+              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2. 
+
+              * tor02 is an oracle cloud vm with sub-ms latency to tor01.
 
 
               ### South River, New Jersey
@@ -100,10 +101,6 @@ sections:
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
               from netherlands.
 
-
-              <!---->
-
-
               *   i have a very open peering policy for my netherlands pop and
               am willing to peer through a tunnel (vxlan preferred).
 
@@ -120,6 +117,15 @@ sections:
               *   my fremont peering router is located with the upstream, [Eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
 
+
+              ### Ashburn, Virginia
+
+
+              *   i have a very open peering policy for my ashburn pop and am
+              willing to peer through a tunnel (vxlan preferred).
+
+              *   my ashburn peering router is located with the upstream, [Fork
+              ](http://forksystems.net/)at an Equinix IAD data center.
             actions: []
     styles:
       self:
