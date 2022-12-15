@@ -48,7 +48,7 @@ sections:
         items:
           - type: JobListItem
             text: >+
-              ### Kansas City
+              ### Kansas City, Missouri
 
 
               *   kansas city is my main peering pop with peers able to connect
@@ -56,7 +56,7 @@ sections:
               future.
 
 
-              ### Toronto
+              ### Toronto, Canada
 
 
               *   you can expect 2602:fc26:6::/48, 2602:fc26:7::/48, and
@@ -74,7 +74,7 @@ sections:
               oracle cloud vm with sub-ms latency to tor01.
 
 
-              ### New Jersey
+              ### South River, New Jersey
 
 
               *   you can expect 45.41.37.0/24, 2602:fc26::/48,
@@ -94,11 +94,15 @@ sections:
               [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
 
 
-              ### Netherlands
+              ### Groningen, Netherlands
 
 
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
               from netherlands.
+
+
+              <!---->
+
 
               *   i have a very open peering policy for my netherlands pop and
               am willing to peer through a tunnel (vxlan preferred).
@@ -107,7 +111,7 @@ sections:
               [Bakker IT](https://bgp.he.net/AS44103).
 
 
-              ### Fremont
+              ### Fremont, California
 
 
               *   i have a very open peering policy for my fremont pop and am
