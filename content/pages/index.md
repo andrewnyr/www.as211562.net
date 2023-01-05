@@ -9,8 +9,8 @@ sections:
     actions: []
     backgroundImage:
       type: ImageBlock
-      url: >-
-        https://www.as1003.net/cdn-cgi/imagedelivery/Od3CAgrZwKVRQkzf5-jlKQ/e2b7b541-e5a2-45cc-bd19-3a1bc831b600/public
+      url: /images/grad.svg
+
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
