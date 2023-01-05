@@ -149,7 +149,7 @@ sections:
     colors: colors-c
     title: supporters
     text: >
-      *   <https://globalsecurelayer.com> -BGP Tunnel
+      *   <https://globalsecurelayer.com> -BGP & DDOS Protection
 
 
       *   [https://as206628.net](https://as206628.net/) -Compute
