@@ -148,7 +148,12 @@ sections:
     colors: colors-c
     title: supporters
     text: >
-      *   <https://globalsecurelayer.com> -BGP & DDOS Protection
+      #### i love my supporters. they truly are the lifeblood of as1003 and we
+      would be nowhere without them.
+
+
+      *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -BGP &
+      DDOS Protection
 
 
       *   [https://as206628.net](https://as206628.net/) -Compute
@@ -161,6 +166,9 @@ sections:
 
 
       *   <https://www.bakker-it.eu> -Compute
+
+
+      *   [https://ioharbor.com](https://ioharbor.com/) -Compute
 
 
       andrewnet is a small network operated by a broke college student. if you
