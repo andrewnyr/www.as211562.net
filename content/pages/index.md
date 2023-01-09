@@ -163,6 +163,9 @@ sections:
       *   <https://www.bakker-it.eu> -Compute
 
 
+      *   [https://ioharbor.com](https://ioharbor.com/) -Compute
+
+
       andrewnet is a small network operated by a broke college student. if you
       would like to support me in my goals by hosting a node, providing a
       tunnel, or allocating a prefix, please [contact
