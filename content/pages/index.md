@@ -152,7 +152,8 @@ sections:
       would be no where without them. <3
 
 
-      <https://globalsecurelayer.com> -BGP & DDOS Protection
+      *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -BGP &
+      DDOS Protection
 
 
       *   [https://as206628.net](https://as206628.net/) -Compute
