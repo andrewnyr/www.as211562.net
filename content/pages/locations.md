@@ -113,7 +113,7 @@ sections:
               *   i have a very open peering policy for my bettendorf pop and am
               willing to peer through a tunnel (vxlan preferred).
 
-              *   my fremont peering router is located with the upstream,
+              *   my bettendorf peering router is located with the upstream,
               [ioHarbor ](https://ioharbor.com/).
 
 
