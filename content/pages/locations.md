@@ -55,6 +55,16 @@ sections:
               with me over KCIX, STLIX, and HOUIX.
 
 
+              ### Bettendorf, Iowa
+
+
+              *   i have a very open peering policy for my bettendorf pop and am
+              willing to peer through a tunnel (vxlan preferred).
+
+              *   my bettendorf peering router is located with the upstream,
+              [ioHarbor ](https://ioharbor.com/).
+
+
               ### Toronto, Canada
 
 
@@ -106,15 +116,6 @@ sections:
               *   my netherlands peering router is located with the upstream,
               [Bakker IT](https://bgp.he.net/AS44103).
 
-
-              ### Bettendorf, Iowa
-
-
-              *   i have a very open peering policy for my bettendorf pop and am
-              willing to peer through a tunnel (vxlan preferred).
-
-              *   my bettendorf peering router is located with the upstream,
-              [ioHarbor ](https://ioharbor.com/).
 
 
               ### Fremont, California
