@@ -47,12 +47,25 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
+            text: >+
               ### Kansas City, Missouri
 
 
               *   kansas city is my main peering pop with peers able to connect
               with me over KCIX, STLIX, and HOUIX.
+
+
+              ### Bettendorf, Iowa
+
+
+              *   i have a very open peering policy for my bettendorf pop and am
+              willing to peer through a tunnel (vxlan preferred).
+
+              *   my bettendorf peering router is located with the upstream,
+              [ioHarbor ](https://ioharbor.com/).
+
+              *   in addition, grant is very generous and bettendorf is flooded
+              with andrewnet compute.
 
 
               ### Toronto, Canada
@@ -107,16 +120,6 @@ sections:
               [Bakker IT](https://bgp.he.net/AS44103).
 
 
-              ### Bettendorf, Iowa
-
-
-              *   i have a very open peering policy for my bettendorf pop and am
-              willing to peer through a tunnel (vxlan preferred).
-
-              *   my bettendorf peering router is located with the upstream,
-              [ioHarbor ](https://ioharbor.com/).
-
-
               ### Fremont, California
 
 
@@ -135,6 +138,7 @@ sections:
 
               *   my ashburn peering router is located with the upstream, [Fork
               ](http://forksystems.net/)at an Equinix IAD data center.
+
             actions: []
     styles:
       self:
