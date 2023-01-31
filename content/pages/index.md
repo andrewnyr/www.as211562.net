@@ -152,6 +152,10 @@ sections:
       would be nowhere without them.
 
 
+      *   [https://ioharbor.com](https://ioharbor.com/) -Compute, Compute,
+      Compute
+
+
       *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -BGP &
       DDOS Protection
 
@@ -166,9 +170,6 @@ sections:
 
 
       *   <https://www.bakker-it.eu> -Compute
-
-
-      *   [https://ioharbor.com](https://ioharbor.com/) -Compute
 
 
       andrewnet is a small network operated by a broke college student. if you
