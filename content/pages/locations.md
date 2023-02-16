@@ -87,7 +87,7 @@ sections:
               *   tor02 is an oracle cloud vm with sub-ms latency to tor01.
 
 
-              ### South River, New Jersey
+              ### New Jersey
 
 
               *   you can expect 45.41.37.0/24, 2602:fc26::/48,
