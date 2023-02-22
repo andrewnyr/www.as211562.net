@@ -47,10 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >+
-              ![](https://cdn.andrewnet.net/2023/02dfdcc379-e8bc-4996-85ae-d0ec5a01bdba/as1003-backbone-final.svg)
-
-
+            text: >
               ### Kansas City, Missouri
 
 
@@ -142,6 +139,8 @@ sections:
               *   my ashburn peering router is located with the upstream, [Fork
               ](http://forksystems.net/)at an Equinix IAD data center.
 
+
+              ![](https://cdn.andrewnet.net/2023/02dfdcc379-e8bc-4996-85ae-d0ec5a01bdba/as1003-backbone-final.svg)
             actions: []
     styles:
       self:
