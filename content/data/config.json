@@ -167,7 +167,7 @@
                 "type": "Social",
                 "altText": "Twitter",
                 "label": "Twitter",
-                "url": "/twitter",
+                "url": "https://twitter.com/asten03",
                 "icon": "twitter",
                 "style": "primary"
             },
