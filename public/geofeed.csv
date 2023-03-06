@@ -1,0 +1,15 @@
+##      andrewnet.net IPv4
+45.41.37.0/24,US,US-NJ,South-River,08882-1555
+23.143.82.0/24,US,US-MO,Kansas-City,64106-2109
+##      andrewnet.net IPv6
+2602:fc26::/48,US,US-NJ,South-River,08882-1555
+2602:fc26:1::/48,US,US-NJ,South-River,08882-1555
+2602:fc26:2::/48,US,US-CA,Fremont,94536
+2602:fc26:3::/48,US,US-NJ,North-Brunswick,08902
+2602:fc26:4::/48,NL,NL-FL,Dronten,8253
+2602:fc26:6::/48,CA,CA-ON,Toronto,M4B0A3
+2602:fc26:7::/48,CA,CA-ON,Toronto,M4B0A3
+2602:fc26:8::/48,US,US-MO,Kansas-City,64106-2109
+2602:fc26:12::/48,US,US-MO,Kansas-City,64106-2109
+2602:fc26:14::/48,GB,GB-LND,London,WC1
+2602:fc26:16::/48,US,US-VA,Ashburn,20147
