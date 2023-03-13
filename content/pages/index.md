@@ -152,27 +152,27 @@ sections:
       would be nowhere without them.
 
 
-      *   [https://ioharbor.com](https://ioharbor.com/) -Compute, Compute,
-      Compute
+      *   [https://ioharbor.com](https://ioharbor.com/) -compute, compute,
+      compute
 
 
-      *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -BGP &
-      DDOS Protection
+      *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -bgp &
+      ddos protection
 
 
-      *   [https://as206628.net](https://as206628.net/) -Compute
+      *   [https://as206628.net](https://as206628.net/) -compute
 
 
-      *   <https://www.xenyth.net> -Waived BGP Fee
+      *   <https://www.xenyth.net> -waived bgp fee
 
 
-      *   [https://forksystems.net](http://forksystems.net/) -Compute
+      *   [https://forksystems.net](http://forksystems.net/) -compute
 
 
-      *   <https://www.bakker-it.eu> -Compute
+      *   <https://www.bakker-it.eu> -compute
 
 
-      *   <https://ohanacraft.com> -Compute
+      *   <https://ohanacraft.com> -compute
 
 
       andrewnet is a small network operated by a broke college student. if you
