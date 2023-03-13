@@ -56,7 +56,7 @@ sections:
       andrewnet production is based on as1003, while andrewnet experimental is
       centered around as211562.
     actions:
-      - label: PeeringDB
+      - label: peeringDB
         altText: ''
         url: 'https://www.peeringdb.com/asn/1003'
         showIcon: false
