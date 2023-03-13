@@ -48,14 +48,14 @@ sections:
         items:
           - type: JobListItem
             text: >
-              ### Kansas City, Missouri
+              ### kansas city, missouri
 
 
               *   kansas city is my main peering pop with peers able to connect
               with me over KCIX, STLIX, and HOUIX.
 
 
-              ### Bettendorf, Iowa
+              ### bettendorf, iowa
 
 
               *   i have a very open peering policy for my bettendorf pop and am
@@ -68,7 +68,7 @@ sections:
               with andrewnet compute.
 
 
-              ### Toronto, Canada
+              ### toronto, canada
 
 
               *   you can expect 2602:fc26:6::/48, 2602:fc26:7::/48, and
@@ -87,7 +87,7 @@ sections:
               *   tor02 is an oracle cloud vm with sub-ms latency to tor01.
 
 
-              ### New Jersey
+              ### new jersey
 
 
               *   you can expect 45.41.37.0/24, 2602:fc26::/48,
@@ -107,7 +107,7 @@ sections:
               [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
 
 
-              ### Groningen, The Netherlands
+              ### groningen, the netherlands
 
 
               *   you can expect 2602:fc26:4::/48 to be announced to the dfz
@@ -120,7 +120,7 @@ sections:
               [Bakker IT](https://bgp.he.net/AS44103).
 
 
-              ### Fremont, California
+              ### fremont, california
 
 
               *   i have a very open peering policy for my fremont pop and am
@@ -130,7 +130,7 @@ sections:
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
 
 
-              ### Ashburn, Virginia
+              ### ashburn, virginia
 
 
               *   i have a very open peering policy for my ashburn pop and am
