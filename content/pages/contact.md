@@ -48,7 +48,7 @@ sections:
         justifyContent: flex-start
   - type: ContactSection
     elementId: ''
-    colors: colors-f
+    colors: colors-h
     backgroundSize: full
     form:
       type: FormBlock
