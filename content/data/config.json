@@ -43,7 +43,7 @@
                 "type": "Link",
                 "label": "CONTACT",
                 "altText": "contact",
-                "url": "https://www.andrewnet.net/contact",
+                "url": "/contact",
                 "showIcon": true,
                 "icon": "mail"
             },
