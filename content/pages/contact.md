@@ -76,6 +76,7 @@ sections:
           placeholder: Your home address
           isRequired: 'false'
           width: full
+          hideLabel: true
         - type: CheckboxFormControl
           name: updates
           label: Sign me up to receive updates
