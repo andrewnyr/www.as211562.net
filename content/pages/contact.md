@@ -78,6 +78,7 @@ sections:
           options:
             - Peering Request
             - Abuse
+            - lorem-ipsum
           isRequired: true
           width: full
         - type: TextareaFormControl
