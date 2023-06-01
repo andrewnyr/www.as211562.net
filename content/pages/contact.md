@@ -73,7 +73,7 @@ sections:
         - type: TextFormControl
           name: subject
           label: Subject
-          placeholder: subject
+          placeholder: Subject
           isRequired: true
           width: full
           hideLabel: true
