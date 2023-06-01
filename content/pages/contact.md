@@ -72,7 +72,7 @@ sections:
           hideLabel: true
         - type: TextFormControl
           name: subject
-          label: Home address
+          label: Subject
           placeholder: Your home address
           isRequired: 'false'
           width: full
