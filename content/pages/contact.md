@@ -11,7 +11,7 @@ sections:
     elementId: ''
     colors: colors-f
     backgroundSize: full
-    title: abuse
+    title: contact us
     text: null
     actions: []
     backgroundImage:
