@@ -69,6 +69,7 @@ sections:
           placeholder: Your email
           isRequired: 'true'
           width: 1/2
+          hideLabel: true
         - type: TextFormControl
           name: address
           label: Home address
