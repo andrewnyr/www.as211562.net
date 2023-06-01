@@ -75,7 +75,7 @@ sections:
           - actions:
               - type: Link
                 label: Contact
-                url: 'https://www.andrewnet.net/contact-me/'
+                url: /contact
                 showIcon: true
                 icon: mail
                 iconPosition: right
