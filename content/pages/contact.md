@@ -87,7 +87,7 @@ sections:
         - type: SelectFormControl
           name: city
           label: Subject
-          hideLabel: false
+          hideLabel: true
           defaultValue: Please choose...
           options:
             - New York
