@@ -53,7 +53,7 @@ sections:
     form:
       type: FormBlock
       elementId: contact-form
-      action: /.netlify/functions/submission_created
+      action: 'https://usebasin.com/f/0a8a47673728'
       destination: ''
       fields:
         - type: TextFormControl
