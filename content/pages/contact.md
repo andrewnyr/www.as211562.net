@@ -79,7 +79,7 @@ sections:
           hideLabel: true
         - type: TextareaFormControl
           name: message
-          label: Description
+          label: message
           hideLabel: true
           placeholder: Please describe
           isRequired: false
