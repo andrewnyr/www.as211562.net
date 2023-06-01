@@ -71,7 +71,7 @@ sections:
           width: 1/2
           hideLabel: true
         - type: TextFormControl
-          name: address
+          name: subject
           label: Home address
           placeholder: Your home address
           isRequired: 'false'
