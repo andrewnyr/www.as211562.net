@@ -74,7 +74,7 @@ sections:
           name: subject
           label: Subject
           placeholder: subject
-          isRequired: 'false'
+          isRequired: true
           width: full
           hideLabel: true
         - type: CheckboxFormControl
