@@ -50,7 +50,6 @@ sections:
     elementId: ''
     colors: colors-h
     backgroundSize: full
-    title: Contact us
     text: We look forward to hearing from you.
     form:
       type: FormBlock
