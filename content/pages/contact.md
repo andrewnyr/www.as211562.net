@@ -86,7 +86,7 @@ sections:
           width: full
         - type: SelectFormControl
           name: city
-          label: City
+          label: Subject
           hideLabel: false
           defaultValue: Please choose...
           options:
