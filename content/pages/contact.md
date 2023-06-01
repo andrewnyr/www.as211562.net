@@ -74,7 +74,7 @@ sections:
           name: subject
           label: Subject
           hideLabel: true
-          defaultValue: Please choose...
+          defaultValue: Subject
           options:
             - New York
             - San Francisco
