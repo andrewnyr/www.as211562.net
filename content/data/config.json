@@ -148,7 +148,7 @@
             {
                 "type": "Link",
                 "label": "Contact",
-                "url": "contact",
+                "url": "/contact",
                 "altText": ""
             },
             {
