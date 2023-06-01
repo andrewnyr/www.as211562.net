@@ -70,13 +70,6 @@ sections:
           isRequired: 'true'
           width: 1/2
           hideLabel: true
-        - type: TextFormControl
-          name: subject
-          label: Subject
-          placeholder: Subject
-          isRequired: true
-          width: full
-          hideLabel: true
         - type: TextareaFormControl
           name: message
           label: message
