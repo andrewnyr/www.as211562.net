@@ -70,13 +70,6 @@ sections:
           isRequired: 'true'
           width: 1/2
           hideLabel: true
-        - type: TextareaFormControl
-          name: message
-          label: message
-          hideLabel: true
-          placeholder: Message
-          isRequired: false
-          width: full
         - type: SelectFormControl
           name: subject
           label: Subject
@@ -85,6 +78,13 @@ sections:
           options:
             - New York
             - San Francisco
+          isRequired: false
+          width: full
+        - type: TextareaFormControl
+          name: message
+          label: message
+          hideLabel: true
+          placeholder: Message
           isRequired: false
           width: full
       submitLabel: Send Message
