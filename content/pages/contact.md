@@ -77,6 +77,13 @@ sections:
           isRequired: true
           width: full
           hideLabel: true
+        - type: TextareaFormControl
+          name: message
+          label: Description
+          hideLabel: false
+          placeholder: Please describe
+          isRequired: false
+          width: full
       submitLabel: Send Message
     media: null
     styles:
