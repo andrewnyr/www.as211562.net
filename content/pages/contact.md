@@ -76,7 +76,7 @@ sections:
           hideLabel: true
           defaultValue: Subject
           options:
-            - New York
+            - Peering Request
             - San Francisco
           isRequired: true
           width: full
