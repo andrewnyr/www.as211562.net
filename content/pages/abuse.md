@@ -68,8 +68,8 @@ sections:
 
 
               #### to report abuse please reach out with the [contact
-              form](https://www.andrewnet.net/contact-me/) or reach out to me at
-              abuse@as1003.net. i will do my best to respond within 24 hours.
+              form](/contact) or reach out to me at abuse@as1003.net. i will do
+              my best to respond within 24 hours.
 
             actions: []
           - actions:
