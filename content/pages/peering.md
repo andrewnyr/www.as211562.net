@@ -54,10 +54,8 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >-
-              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-              quae. explicabo.
+            text: |
+              ![](/images/IXP-f26d4bec.svg)
             actions: []
           - type: JobListItem
             title: >-
