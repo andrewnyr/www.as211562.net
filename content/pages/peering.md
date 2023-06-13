@@ -58,12 +58,7 @@ sections:
               Sed ut perspiciatis unde omnis iste natus error sit voluptatem
               accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
               quae. explicabo.
-            actions:
-              - type: Link
-                url: /
-                showIcon: true
-                icon: arrowRight
-                iconPosition: right
+            actions: []
           - type: JobListItem
             title: >-
               andrewnet (as1003) has an open peering policy with a few simple
