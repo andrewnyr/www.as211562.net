@@ -54,6 +54,20 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
+            title: Role Title
+            location: Role location
+            text: >-
+              Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+              accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
+              quae. explicabo.
+            actions:
+              - type: Link
+                label: Apply
+                url: /
+                showIcon: true
+                icon: arrowRight
+                iconPosition: right
+          - type: JobListItem
             title: >-
               andrewnet (as1003) has an open peering policy with a few simple
               requirements.
