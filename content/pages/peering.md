@@ -104,6 +104,9 @@ sections:
             actions: []
           - type: JobListItem
             text: |
+              exchanges we are on:
+
+
               ![](/images/IXP-f26d4bec.svg)
             actions: []
     styles:
