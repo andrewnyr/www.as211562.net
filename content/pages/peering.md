@@ -58,7 +58,6 @@ sections:
               andrewnet (as1003) has an open peering policy with a few simple
               requirements.
             text: >+
-              ![](/images/IXP.svg)
 
 
               ##### requirements
