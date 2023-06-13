@@ -54,10 +54,6 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: |
-              ![](/images/IXP-f26d4bec.svg)
-            actions: []
-          - type: JobListItem
             title: >-
               andrewnet (as1003) has an open peering policy with a few simple
               requirements.
@@ -105,6 +101,10 @@ sections:
 
               *   terminate any peering at any time without prior notice
 
+            actions: []
+          - type: JobListItem
+            text: |
+              ![](/images/IXP-f26d4bec.svg)
             actions: []
     styles:
       self:
