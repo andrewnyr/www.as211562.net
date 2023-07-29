@@ -297,6 +297,6 @@ sections:
       actions:
         justifyContent: flex-start
     type: CtaSection
-addTitleSuffix: true
+addTitleSuffix: false
 metaDescription: the official network of andrewnet
 ---
