@@ -5,7 +5,7 @@ metaDescription: null
 addTitleSuffix: true
 socialImage: null
 metaTags: []
-title: Contact
+title: contact
 sections:
   - type: CtaSection
     elementId: ''
