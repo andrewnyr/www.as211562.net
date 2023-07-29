@@ -300,5 +300,4 @@ sections:
 addTitleSuffix: false
 metaDescription: the official network of andrewnet
 metaTitle: as1003
-socialImage: /images/as1003meta.jpg
 ---
