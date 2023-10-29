@@ -9,7 +9,7 @@ sections:
     actions: []
     backgroundImage:
       type: ImageBlock
-      url: /images/newcolors.svgs.svg
+      url: /images/newcolors.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
