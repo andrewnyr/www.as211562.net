@@ -15,7 +15,7 @@ sections:
     text: null
     actions: []
     backgroundImage:
-      url: /images/grad.svg
+      url: /images/newcolors.svg
       altText: altText of the image
       caption: Caption of the image
       elementId: ''
