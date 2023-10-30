@@ -444,4 +444,5 @@ sections:
     type: CtaSection
 layout: PageLayout
 addTitleSuffix: true
+socialImage: /images/1003-background.png
 ---
