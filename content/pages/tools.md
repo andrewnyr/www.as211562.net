@@ -131,4 +131,5 @@ sections:
 layout: PageLayout
 metaDescription: peering is how the internet works! peer with me today!
 addTitleSuffix: true
+socialImage: /images/1003-background.png
 ---
