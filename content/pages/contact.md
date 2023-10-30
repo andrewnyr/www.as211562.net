@@ -3,7 +3,7 @@ layout: PageLayout
 metaTitle: null
 metaDescription: null
 addTitleSuffix: true
-socialImage: null
+socialImage: /images/1003-background.png
 metaTags: []
 title: contact
 sections:
