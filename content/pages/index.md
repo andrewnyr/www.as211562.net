@@ -147,7 +147,7 @@ sections:
   - elementId: ''
     colors: colors-c
     title: supporters
-    text: >
+    text: >+
       *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -bgp &
       ddos protection
 
@@ -169,11 +169,6 @@ sections:
 
       *   <https://accurishosting.ca> -compute
 
-
-      andrewnet is a small network operated by a broke college student. if you
-      would like to support me in my goals by hosting a node, providing a
-      tunnel, or allocating a prefix, please [contact
-      me](https://www.as1003.net/contact/).
     actions:
       - type: Button
         label: contact
