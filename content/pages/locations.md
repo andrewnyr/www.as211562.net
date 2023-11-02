@@ -52,69 +52,45 @@ sections:
 
 
               *   kansas city is my main peering pop with peers able to connect
-              with me over KCIX, STLIX, and HOUIX.
-
-
-              ### bettendorf, iowa
-
-
-              *   i have a very open peering policy for my bettendorf pop and am
-              willing to peer through a tunnel (vxlan preferred).
-
-              *   my bettendorf peering router is located with the upstream,
-              [ioHarbor ](https://ioharbor.com/).
-
-              *   in addition, grant is very generous and bettendorf is flooded
-              with andrewnet compute.
+              with me over kcix, stlix, and houix. andrewnet is connected with a
+              40g link to these exchanges.
 
 
               ### toronto, canada
 
 
-              *   you can expect 2602:fc26:6::/48, 2602:fc26:7::/48, and
-              2602:fc26:a::/48 to be announced to the dfz from toronto, with
-              2602:fc26::/48 and 45.41.37.0/24 announced only to private or
-              bilat peers.
-
               *   i have a very open peering policy for my toronto pop and i am
-              willing to peer through a mutual exchange or through a tunnel
-              (vxlan preferred).
+              willing to peer through onix.
 
               *   tor01 is located with the upstream, [GoCodeIt
               ](https://bgp.he.net/AS62513)hosted on the cloud provider,
               [Xenyth](https://xenyth.net/?affid=29) at equinix tr2.
 
-              *   tor02 is an oracle cloud vm with sub-ms latency to tor01.
+
+              ### ottawa, canada
+
+
+              *   i have a very open peering policy for my ottawa pop and i am
+              willing to peer through accurix.
+
+              *   ott01 is located with the upstream, [GoCodeIt
+              ](https://bgp.he.net/AS62513)hosted on the cloud provider,
+              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2.
 
 
               ### new jersey
 
 
-              *   you can expect 45.41.37.0/24, 2602:fc26::/48,
-              2602:fc26:1::/48, and 2602:fc26:a::/48 to be announced to the dfz
-              from new jersey.
-
               *   i do have a selective policy for who is able to peer with my
               new jersey/new york pop due to the fact that i run a production
               connection off of this.
 
-              *   my new jersey pop obtains transit over a gre tunnel to
-              upstream [Global Secure Layer](https://globalsecurelayer.com/),
-              also featuring a backup link through [GoCodeIt
-              ](https://xenyth.net/?affid=29)and connections to my other pops.
-
-              *   you can view a diagram of the network layout of this pop
-              [here](https://cdn.andrewnet.net/ShareX/2022/02920f81cb-d3e7-4d2a-8747-6eeb2d9c148e/nyc01.drawio.html).
+              *   my new jersey pop obtains transit from upstream [Global Secure
+              Layer](https://globalsecurelayer.com/)
 
 
               ### groningen, the netherlands
 
-
-              *   you can expect 2602:fc26:4::/48 to be announced to the dfz
-              from netherlands.
-
-              *   i have a very open peering policy for my netherlands pop and
-              am willing to peer through a tunnel (vxlan preferred).
 
               *   my netherlands peering router is located with the upstream,
               [Bakker IT](https://bgp.he.net/AS44103).
@@ -123,18 +99,16 @@ sections:
               ### fremont, california
 
 
-              *   i have a very open peering policy for my fremont pop and am
-              willing to peer through a tunnel (vxlan preferred).
-
               *   my fremont peering router is located with the upstream, [Eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
+
+              *   a second fremont peering router is located with the upstream,
+              [McTom](https://ohanacraft.com)at hurricane electric's fmt1 data
+              center.
 
 
               ### ashburn, virginia
 
-
-              *   i have a very open peering policy for my ashburn pop and am
-              willing to peer through a tunnel (vxlan preferred).
 
               *   my ashburn peering router is located with the upstream, [Fork
               ](http://forksystems.net/)at an Equinix IAD data center.
