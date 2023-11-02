@@ -47,7 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >+
+            text: >
               ### kansas city, missouri
 
 
@@ -62,9 +62,9 @@ sections:
               *   i have a very open peering policy for my toronto pop and i am
               willing to peer through onix.
 
-              *   tor01 is located with the upstream, [gocodeit
-              ](https://bgp.he.net/AS62513)hosted on the cloud provider, [xenyth
-              ](https://xenyth.net/?affid=29)at equinix tr2.
+              *   tor01 is located with the upstream,
+              [gocodeit](https://bgp.he.net/AS62513) hosted on the cloud
+              provider, [xenyth ](https://xenyth.net/?affid=29)at equinix tr2.
 
 
               ### ottawa, canada
@@ -97,8 +97,9 @@ sections:
               ### fremont, california
 
 
-              *   my fremont peering router is located with the upstream, [eric
-              ](https://ericz.me/)at hurricane electric's fmt2 data center.
+              *   my fremont peering router is located with the upstream,
+              [eric](https://ericz.me/) at hurricane electric's fmt2 data
+              center.
 
               *   a second fremont peering router is located with the upstream,
               [mctom](https://ohanacraft.com) at hurricane electric's fmt1 data
@@ -108,9 +109,8 @@ sections:
               ### ashburn, virginia
 
 
-              *   my ashburn peering router is located with the upstream, [fork
-              ](http://forksystems.net/)at an equinix iad data center.
-
+              *   my ashburn peering router is located with the upstream,
+              [fork](http://forksystems.net/) at an equinix iad data center.
             actions: []
     styles:
       self:
