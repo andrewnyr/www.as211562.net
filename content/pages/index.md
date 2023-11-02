@@ -169,11 +169,7 @@ sections:
 
       *   <https://accurishosting.ca> -compute
 
-    actions:
-      - type: Button
-        label: contact
-        url: 'https://www.as1003.net/contact/'
-        style: primary
+    actions: []
     backgroundImage:
       altText: altText of the image
       caption: Caption of the image
