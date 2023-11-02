@@ -148,10 +148,6 @@ sections:
     colors: colors-c
     title: supporters
     text: >
-      #### i love my supporters. they truly are the lifeblood of as1003 and we
-      would be nowhere without them.
-
-
       *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -bgp &
       ddos protection
 
