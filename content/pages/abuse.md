@@ -47,7 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >+
+            text: >
               #### i will not tolerate any abuse of any kind and am willing to
               cooperate with all to fix any perceived abuse.
 
@@ -68,9 +68,7 @@ sections:
 
 
               #### to report abuse please reach out with the [contact
-              form](/contact) or reach out to me at abuse@as1003.net. i will do
-              my best to respond within 24 hours.
-
+              form](/contact).
             actions: []
           - actions:
               - type: Link
