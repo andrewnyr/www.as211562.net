@@ -63,8 +63,8 @@ sections:
               willing to peer through onix.
 
               *   tor01 is located with the upstream, [gocodeit
-              ](https://bgp.he.net/AS62513)hosted on the cloud provider,
-              [xenyth](https://xenyth.net/?affid=29)at equinix tr2.
+              ](https://bgp.he.net/AS62513)hosted on the cloud provider, [xenyth
+              ](https://xenyth.net/?affid=29)at equinix tr2.
 
 
               ### ottawa, canada
