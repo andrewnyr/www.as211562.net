@@ -70,13 +70,7 @@ sections:
               #### to report abuse please reach out with the [contact
               form](/contact).
             actions: []
-          - actions:
-              - type: Link
-                label: Contact
-                url: /contact
-                showIcon: true
-                icon: mail
-                iconPosition: right
+          - actions: []
     styles:
       self:
         height: auto
