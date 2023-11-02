@@ -84,7 +84,7 @@ sections:
               connection off of this.
 
               *   my new jersey pop obtains transit from upstream [global secure
-              layer](https://globalsecurelayer.com/)
+              layer](https://globalsecurelayer.com/).
 
 
               ### groningen, the netherlands
