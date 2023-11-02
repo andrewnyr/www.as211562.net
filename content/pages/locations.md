@@ -47,7 +47,7 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: >
+            text: >+
               ### kansas city, missouri
 
 
@@ -62,9 +62,9 @@ sections:
               *   i have a very open peering policy for my toronto pop and i am
               willing to peer through onix.
 
-              *   tor01 is located with the upstream, [GoCodeIt
+              *   tor01 is located with the upstream, [gocodeit
               ](https://bgp.he.net/AS62513)hosted on the cloud provider,
-              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2.
+              [xenyth](https://xenyth.net/?affid=29)at equinix tr2.
 
 
               ### ottawa, canada
@@ -73,9 +73,7 @@ sections:
               *   i have a very open peering policy for my ottawa pop and i am
               willing to peer through accurix.
 
-              *   ott01 is located with the upstream, [GoCodeIt
-              ](https://bgp.he.net/AS62513)hosted on the cloud provider,
-              [Xenyth](https://xenyth.net/?affid=29) at equinix tr2.
+              *   ott01 is located with the upstream, accuris technologies.
 
 
               ### new jersey
@@ -85,36 +83,34 @@ sections:
               new jersey/new york pop due to the fact that i run a production
               connection off of this.
 
-              *   my new jersey pop obtains transit from upstream [Global Secure
-              Layer](https://globalsecurelayer.com/)
+              *   my new jersey pop obtains transit from upstream [global secure
+              layer](https://globalsecurelayer.com/)
 
 
               ### groningen, the netherlands
 
 
               *   my netherlands peering router is located with the upstream,
-              [Bakker IT](https://bgp.he.net/AS44103).
+              [bakker it](https://bgp.he.net/AS44103).
 
 
               ### fremont, california
 
 
-              *   my fremont peering router is located with the upstream, [Eric
+              *   my fremont peering router is located with the upstream, [eric
               ](https://ericz.me/)at hurricane electric's fmt2 data center.
 
               *   a second fremont peering router is located with the upstream,
-              [McTom](https://ohanacraft.com)at hurricane electric's fmt1 data
+              [mctom](https://ohanacraft.com) at hurricane electric's fmt1 data
               center.
 
 
               ### ashburn, virginia
 
 
-              *   my ashburn peering router is located with the upstream, [Fork
-              ](http://forksystems.net/)at an Equinix IAD data center.
+              *   my ashburn peering router is located with the upstream, [fork
+              ](http://forksystems.net/)at an equinix iad data center.
 
-
-              ![](https://cdn.andrewnet.net/2023/02dfdcc379-e8bc-4996-85ae-d0ec5a01bdba/as1003-backbone-final.svg)
             actions: []
     styles:
       self:
