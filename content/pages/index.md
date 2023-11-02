@@ -152,10 +152,6 @@ sections:
       would be nowhere without them.
 
 
-      *   [https://ioharbor.com](https://ioharbor.com/) -compute, compute,
-      compute
-
-
       *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -bgp &
       ddos protection
 
