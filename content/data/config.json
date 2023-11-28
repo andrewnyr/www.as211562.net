@@ -34,7 +34,7 @@
             {
                 "type": "Link",
                 "label": "Looking Glass",
-                "url": "/abuse",
+                "url": "https://lg.as1003.net/",
                 "altText": "",
                 "showIcon": true,
                 "icon": "send"
