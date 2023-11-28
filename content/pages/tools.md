@@ -47,10 +47,10 @@ sections:
       - type: JobList
         items:
           - type: JobListItem
-            text: |+
+            text: |
               ### looking glass:
 
-              *   [https://bgp.tools/lg/1003](https://bgp.tools/lg/1003#bgp)
+              *   [https://lg.as1003.net](https://lg.as1003.net)
 
               ### here are a few tools that i use to network:
 
@@ -65,7 +65,6 @@ sections:
               *   <https://bgp.he.net>
 
               *   <https://routing.he.net>
-
             actions: []
     styles:
       self:
