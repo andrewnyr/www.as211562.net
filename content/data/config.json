@@ -33,7 +33,7 @@
             },
             {
                 "type": "Link",
-                "label": "Abuse",
+                "label": "Looking Glass",
                 "url": "/abuse",
                 "altText": "",
                 "showIcon": true,
