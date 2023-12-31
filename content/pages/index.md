@@ -147,7 +147,7 @@ sections:
   - elementId: ''
     colors: colors-c
     title: supporters
-    text: >+
+    text: >
       *   [https://globalsecurelayer.com](http://globalsecurelayer.com) -bgp &
       ddos protection
 
@@ -164,11 +164,7 @@ sections:
       *   <https://www.bakker-it.eu> -compute
 
 
-      *   <https://ohanacraft.com> -compute
-
-
       *   <https://accurishosting.ca> -compute
-
     actions: []
     backgroundImage:
       altText: altText of the image
