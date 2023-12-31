@@ -101,10 +101,6 @@ sections:
               [eric](https://ericz.me/) at hurricane electric's fmt2 data
               center.
 
-              *   a second fremont peering router is located with the upstream,
-              [mctom](https://ohanacraft.com) at hurricane electric's fmt1 data
-              center.
-
 
               ### ashburn, virginia
 
