@@ -378,7 +378,6 @@ sections:
     backgroundSize: full
     subtitle: ''
     badge:
-      label: This is the badge
       elementId: ''
       styles:
         self:
