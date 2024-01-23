@@ -377,7 +377,7 @@ sections:
     quote: |
       "I wish i would’ve met inferno sooner, it really changed my life."
     name: '- ezri zhu'
-    title: operator of ericnet
+    title: operator of ezrinet
     backgroundImage: null
     styles:
       self:
