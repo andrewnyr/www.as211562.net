@@ -395,7 +395,7 @@ sections:
         style: primary
     media:
       type: ImageBlock
-      url: /images/hero-2.png
+      url: /images/ptsd.gif
       altText: Hero image
     styles:
       self:
